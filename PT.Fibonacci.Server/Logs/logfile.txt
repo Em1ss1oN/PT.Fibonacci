@@ -1,0 +1,1560 @@
+2017-04-16 17:13:27,752 [12] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:27,753 [5] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:27,753 [6] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:27,753 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:27,752 [10] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,601 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,706 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,707 [10] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,709 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,709 [10] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,712 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,712 [10] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,715 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,716 [10] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,720 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,724 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,727 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,727 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,731 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,732 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,735 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,738 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,741 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,743 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,746 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,810 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,811 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,811 [12] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,818 [7] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,824 [17] INFO  Logger [(null)] - Processing CreateNewCalculation().
+2017-04-16 17:13:28,891 [6] INFO  Logger [(null)] - Processing CalculateNext(1401, 0).
+2017-04-16 17:13:28,891 [5] INFO  Logger [(null)] - Processing CalculateNext(1400, 0).
+2017-04-16 17:13:28,891 [17] INFO  Logger [(null)] - Processing CalculateNext(1395, 0).
+2017-04-16 17:13:28,891 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 0).
+2017-04-16 17:13:28,900 [12] INFO  Logger [(null)] - Processing CalculateNext(1403, 0).
+2017-04-16 17:13:28,914 [12] INFO  Logger [(null)] - Processing CalculateNext(1397, 0).
+2017-04-16 17:13:28,918 [12] INFO  Logger [(null)] - Processing CalculateNext(1402, 0).
+2017-04-16 17:13:28,920 [6] INFO  Logger [(null)] - Sending Response Id:1395, Current:1.
+2017-04-16 17:13:28,921 [7] INFO  Logger [(null)] - Sending Response Id:1403, Current:1.
+2017-04-16 17:13:28,922 [17] INFO  Logger [(null)] - Sending Response Id:1394, Current:1.
+2017-04-16 17:13:28,923 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 0).
+2017-04-16 17:13:28,925 [12] INFO  Logger [(null)] - Sending Response Id:1401, Current:1.
+2017-04-16 17:13:28,926 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 0).
+2017-04-16 17:13:28,934 [17] INFO  Logger [(null)] - Sending Response Id:1397, Current:1.
+2017-04-16 17:13:28,940 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:1.
+2017-04-16 17:13:28,941 [17] INFO  Logger [(null)] - Sending Response Id:1404, Current:1.
+2017-04-16 17:13:28,941 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:1.
+2017-04-16 17:13:28,942 [10] INFO  Logger [(null)] - Processing CalculateNext(1405, 0).
+2017-04-16 17:13:28,945 [10] INFO  Logger [(null)] - Processing CalculateNext(1408, 0).
+2017-04-16 17:13:28,946 [17] INFO  Logger [(null)] - Processing CalculateNext(1396, 0).
+2017-04-16 17:13:28,947 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:1.
+2017-04-16 17:13:28,947 [5] INFO  Logger [(null)] - Sending Response Id:1405, Current:1.
+2017-04-16 17:13:28,952 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 0).
+2017-04-16 17:13:28,952 [17] INFO  Logger [(null)] - Processing CalculateNext(1409, 0).
+2017-04-16 17:13:28,956 [6] INFO  Logger [(null)] - Processing CalculateNext(1410, 0).
+2017-04-16 17:13:28,959 [17] INFO  Logger [(null)] - Sending Response Id:1408, Current:1.
+2017-04-16 17:13:28,961 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 0).
+2017-04-16 17:13:28,952 [10] INFO  Logger [(null)] - Processing CalculateNext(1407, 0).
+2017-04-16 17:13:28,965 [12] INFO  Logger [(null)] - Processing CalculateNext(1416, 0).
+2017-04-16 17:13:28,965 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 0).
+2017-04-16 17:13:28,970 [7] INFO  Logger [(null)] - Processing CalculateNext(1414, 0).
+2017-04-16 17:13:28,976 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 0).
+2017-04-16 17:13:28,977 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 0).
+2017-04-16 17:13:28,983 [7] INFO  Logger [(null)] - Processing CalculateNext(1420, 0).
+2017-04-16 17:13:28,983 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 0).
+2017-04-16 17:13:28,991 [6] INFO  Logger [(null)] - Sending Response Id:1396, Current:1.
+2017-04-16 17:13:28,991 [10] INFO  Logger [(null)] - Processing CalculateNext(1421, 0).
+2017-04-16 17:13:28,994 [7] INFO  Logger [(null)] - Sending Response Id:1412, Current:1.
+2017-04-16 17:13:28,997 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:1.
+2017-04-16 17:13:28,998 [12] INFO  Logger [(null)] - Sending Response Id:1410, Current:1.
+2017-04-16 17:13:28,999 [17] INFO  Logger [(null)] - Processing CalculateNext(1422, 0).
+2017-04-16 17:13:28,999 [12] INFO  Logger [(null)] - Sending Response Id:1411, Current:1.
+2017-04-16 17:13:28,999 [6] INFO  Logger [(null)] - Sending Response Id:1407, Current:1.
+2017-04-16 17:13:29,000 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:1.
+2017-04-16 17:13:29,001 [10] INFO  Logger [(null)] - Processing CalculateNext(1399, 0).
+2017-04-16 17:13:29,003 [12] INFO  Logger [(null)] - Sending Response Id:1414, Current:1.
+2017-04-16 17:13:29,003 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:1.
+2017-04-16 17:13:29,004 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:1.
+2017-04-16 17:13:29,004 [12] INFO  Logger [(null)] - Sending Response Id:1420, Current:1.
+2017-04-16 17:13:29,004 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:1.
+2017-04-16 17:13:29,005 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:1.
+2017-04-16 17:13:29,005 [12] INFO  Logger [(null)] - Sending Response Id:1421, Current:1.
+2017-04-16 17:13:29,006 [17] INFO  Logger [(null)] - Processing CalculateNext(1415, 0).
+2017-04-16 17:13:29,007 [10] INFO  Logger [(null)] - Sending Response Id:1422, Current:1.
+2017-04-16 17:13:29,008 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:1.
+2017-04-16 17:13:29,010 [12] INFO  Logger [(null)] - Processing CalculateNext(1423, 0).
+2017-04-16 17:13:29,010 [6] INFO  Logger [(null)] - Processing CalculateNext(1419, 0).
+2017-04-16 17:13:29,011 [10] INFO  Logger [(null)] - Sending Response Id:1415, Current:1.
+2017-04-16 17:13:29,013 [17] INFO  Logger [(null)] - Sending Response Id:1423, Current:1.
+2017-04-16 17:13:29,016 [10] INFO  Logger [(null)] - Sending Response Id:1419, Current:1.
+2017-04-16 17:13:29,348 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 1).
+2017-04-16 17:13:29,351 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 1).
+2017-04-16 17:13:29,352 [6] INFO  Logger [(null)] - Processing CalculateNext(1408, 1).
+2017-04-16 17:13:29,364 [12] INFO  Logger [(null)] - Processing CalculateNext(1400, 1).
+2017-04-16 17:13:29,376 [12] INFO  Logger [(null)] - Processing CalculateNext(1412, 1).
+2017-04-16 17:13:29,377 [17] INFO  Logger [(null)] - Processing CalculateNext(1402, 1).
+2017-04-16 17:13:29,390 [12] INFO  Logger [(null)] - Processing CalculateNext(1395, 1).
+2017-04-16 17:13:29,402 [12] INFO  Logger [(null)] - Processing CalculateNext(1397, 1).
+2017-04-16 17:13:29,410 [12] INFO  Logger [(null)] - Processing CalculateNext(1394, 1).
+2017-04-16 17:13:29,435 [17] INFO  Logger [(null)] - Processing CalculateNext(1411, 1).
+2017-04-16 17:13:29,448 [7] INFO  Logger [(null)] - Sending Response Id:1404, Current:2.
+2017-04-16 17:13:29,449 [12] INFO  Logger [(null)] - Processing CalculateNext(1401, 1).
+2017-04-16 17:13:29,456 [5] INFO  Logger [(null)] - Processing CalculateNext(1396, 1).
+2017-04-16 17:13:29,457 [6] INFO  Logger [(null)] - Processing CalculateNext(1410, 1).
+2017-04-16 17:13:29,457 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 1).
+2017-04-16 17:13:29,463 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:2.
+2017-04-16 17:13:29,465 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:2.
+2017-04-16 17:13:29,466 [6] INFO  Logger [(null)] - Processing CalculateNext(1407, 1).
+2017-04-16 17:13:29,466 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 1).
+2017-04-16 17:13:29,479 [17] INFO  Logger [(null)] - Sending Response Id:1402, Current:2.
+2017-04-16 17:13:29,481 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 1).
+2017-04-16 17:13:29,482 [17] INFO  Logger [(null)] - Sending Response Id:1412, Current:2.
+2017-04-16 17:13:29,486 [17] INFO  Logger [(null)] - Sending Response Id:1397, Current:2.
+2017-04-16 17:13:29,488 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 1).
+2017-04-16 17:13:29,489 [17] INFO  Logger [(null)] - Sending Response Id:1394, Current:2.
+2017-04-16 17:13:29,490 [17] INFO  Logger [(null)] - Sending Response Id:1408, Current:2.
+2017-04-16 17:13:29,492 [17] INFO  Logger [(null)] - Sending Response Id:1411, Current:2.
+2017-04-16 17:13:29,493 [6] INFO  Logger [(null)] - Sending Response Id:1401, Current:2.
+2017-04-16 17:13:29,493 [17] INFO  Logger [(null)] - Sending Response Id:1396, Current:2.
+2017-04-16 17:13:29,496 [6] INFO  Logger [(null)] - Sending Response Id:1410, Current:2.
+2017-04-16 17:13:29,499 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:2.
+2017-04-16 17:13:29,503 [7] INFO  Logger [(null)] - Sending Response Id:1407, Current:2.
+2017-04-16 17:13:29,504 [5] INFO  Logger [(null)] - Processing CalculateNext(1403, 1).
+2017-04-16 17:13:29,505 [17] INFO  Logger [(null)] - Sending Response Id:1409, Current:2.
+2017-04-16 17:13:29,505 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 1).
+2017-04-16 17:13:29,508 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:2.
+2017-04-16 17:13:29,509 [17] INFO  Logger [(null)] - Sending Response Id:1413, Current:2.
+2017-04-16 17:13:29,511 [5] INFO  Logger [(null)] - Processing CalculateNext(1421, 1).
+2017-04-16 17:13:29,512 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 1).
+2017-04-16 17:13:29,517 [17] INFO  Logger [(null)] - Sending Response Id:1403, Current:2.
+2017-04-16 17:13:29,517 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:2.
+2017-04-16 17:13:29,524 [7] INFO  Logger [(null)] - Sending Response Id:1417, Current:2.
+2017-04-16 17:13:29,526 [17] INFO  Logger [(null)] - Sending Response Id:1421, Current:2.
+2017-04-16 17:13:29,530 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:2.
+2017-04-16 17:13:29,534 [6] INFO  Logger [(null)] - Processing CalculateNext(1420, 1).
+2017-04-16 17:13:29,537 [7] INFO  Logger [(null)] - Processing CalculateNext(1422, 1).
+2017-04-16 17:13:29,537 [17] INFO  Logger [(null)] - Processing CalculateNext(1415, 1).
+2017-04-16 17:13:29,538 [5] INFO  Logger [(null)] - Processing CalculateNext(1399, 1).
+2017-04-16 17:13:29,553 [17] INFO  Logger [(null)] - Sending Response Id:1420, Current:2.
+2017-04-16 17:13:29,553 [7] INFO  Logger [(null)] - Sending Response Id:1415, Current:2.
+2017-04-16 17:13:29,554 [6] INFO  Logger [(null)] - Processing CalculateNext(1423, 1).
+2017-04-16 17:13:29,554 [17] INFO  Logger [(null)] - Sending Response Id:1399, Current:2.
+2017-04-16 17:13:29,555 [7] INFO  Logger [(null)] - Sending Response Id:1422, Current:2.
+2017-04-16 17:13:29,561 [17] INFO  Logger [(null)] - Processing CalculateNext(1405, 1).
+2017-04-16 17:13:29,561 [7] INFO  Logger [(null)] - Processing CalculateNext(1414, 1).
+2017-04-16 17:13:29,568 [5] INFO  Logger [(null)] - Processing CalculateNext(1419, 1).
+2017-04-16 17:13:29,569 [6] INFO  Logger [(null)] - Sending Response Id:1423, Current:2.
+2017-04-16 17:13:29,571 [17] INFO  Logger [(null)] - Sending Response Id:1414, Current:2.
+2017-04-16 17:13:29,571 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:2.
+2017-04-16 17:13:29,571 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 3).
+2017-04-16 17:13:29,574 [5] INFO  Logger [(null)] - Processing CalculateNext(1406, 3).
+2017-04-16 17:13:29,578 [17] INFO  Logger [(null)] - Sending Response Id:1419, Current:2.
+2017-04-16 17:13:29,580 [6] INFO  Logger [(null)] - Sending Response Id:1404, Current:5.
+2017-04-16 17:13:29,578 [7] INFO  Logger [(null)] - Processing CalculateNext(1402, 3).
+2017-04-16 17:13:29,588 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 3).
+2017-04-16 17:13:29,590 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:5.
+2017-04-16 17:13:29,592 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 3).
+2017-04-16 17:13:29,596 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:5.
+2017-04-16 17:13:29,597 [17] INFO  Logger [(null)] - Sending Response Id:1412, Current:5.
+2017-04-16 17:13:29,609 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 3).
+2017-04-16 17:13:29,609 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 3).
+2017-04-16 17:13:29,611 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:5.
+2017-04-16 17:13:29,621 [17] INFO  Logger [(null)] - Processing CalculateNext(1401, 3).
+2017-04-16 17:13:29,621 [7] INFO  Logger [(null)] - Processing CalculateNext(1397, 3).
+2017-04-16 17:13:29,625 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 3).
+2017-04-16 17:13:29,629 [17] INFO  Logger [(null)] - Sending Response Id:1411, Current:5.
+2017-04-16 17:13:29,632 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:5.
+2017-04-16 17:13:29,632 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 3).
+2017-04-16 17:13:29,632 [17] INFO  Logger [(null)] - Sending Response Id:1394, Current:5.
+2017-04-16 17:13:29,633 [17] INFO  Logger [(null)] - Sending Response Id:1396, Current:5.
+2017-04-16 17:13:29,633 [5] INFO  Logger [(null)] - Sending Response Id:1397, Current:5.
+2017-04-16 17:13:29,637 [6] INFO  Logger [(null)] - Processing CalculateNext(1407, 3).
+2017-04-16 17:13:29,641 [5] INFO  Logger [(null)] - Sending Response Id:1410, Current:5.
+2017-04-16 17:13:29,647 [17] INFO  Logger [(null)] - Processing CalculateNext(1409, 3).
+2017-04-16 17:13:29,647 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 3).
+2017-04-16 17:13:29,647 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 3).
+2017-04-16 17:13:29,652 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:5.
+2017-04-16 17:13:29,655 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:5.
+2017-04-16 17:13:29,655 [17] INFO  Logger [(null)] - Processing CalculateNext(1395, 3).
+2017-04-16 17:13:29,656 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 3).
+2017-04-16 17:13:29,657 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:5.
+2017-04-16 17:13:29,660 [5] INFO  Logger [(null)] - Sending Response Id:1413, Current:5.
+2017-04-16 17:13:29,663 [6] INFO  Logger [(null)] - Processing CalculateNext(1421, 3).
+2017-04-16 17:13:29,664 [17] INFO  Logger [(null)] - Sending Response Id:1395, Current:5.
+2017-04-16 17:13:29,674 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 3).
+2017-04-16 17:13:29,675 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 3).
+2017-04-16 17:13:29,684 [17] INFO  Logger [(null)] - Sending Response Id:1421, Current:5.
+2017-04-16 17:13:29,684 [5] INFO  Logger [(null)] - Sending Response Id:1398, Current:5.
+2017-04-16 17:13:29,685 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:5.
+2017-04-16 17:13:29,688 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:5.
+2017-04-16 17:13:29,690 [17] INFO  Logger [(null)] - Processing CalculateNext(1408, 3).
+2017-04-16 17:13:29,693 [7] INFO  Logger [(null)] - Processing CalculateNext(1420, 3).
+2017-04-16 17:13:29,698 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 3).
+2017-04-16 17:13:29,699 [7] INFO  Logger [(null)] - Processing CalculateNext(1422, 3).
+2017-04-16 17:13:29,711 [5] INFO  Logger [(null)] - Processing CalculateNext(1415, 3).
+2017-04-16 17:13:29,718 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:5.
+2017-04-16 17:13:29,719 [7] INFO  Logger [(null)] - Sending Response Id:1420, Current:5.
+2017-04-16 17:13:29,720 [5] INFO  Logger [(null)] - Sending Response Id:1422, Current:5.
+2017-04-16 17:13:29,720 [6] INFO  Logger [(null)] - Sending Response Id:1399, Current:5.
+2017-04-16 17:13:29,722 [5] INFO  Logger [(null)] - Sending Response Id:1415, Current:5.
+2017-04-16 17:13:29,726 [17] INFO  Logger [(null)] - Processing CalculateNext(1403, 3).
+2017-04-16 17:13:29,733 [7] INFO  Logger [(null)] - Processing CalculateNext(1414, 3).
+2017-04-16 17:13:29,733 [6] INFO  Logger [(null)] - Processing CalculateNext(1405, 3).
+2017-04-16 17:13:29,741 [6] INFO  Logger [(null)] - Sending Response Id:1403, Current:5.
+2017-04-16 17:13:29,744 [17] INFO  Logger [(null)] - Sending Response Id:1405, Current:5.
+2017-04-16 17:13:29,745 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:5.
+2017-04-16 17:13:29,747 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 8).
+2017-04-16 17:13:29,755 [17] INFO  Logger [(null)] - Processing CalculateNext(1406, 8).
+2017-04-16 17:13:29,757 [5] INFO  Logger [(null)] - Sending Response Id:1404, Current:13.
+2017-04-16 17:13:29,761 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 3).
+2017-04-16 17:13:29,763 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:13.
+2017-04-16 17:13:29,770 [5] INFO  Logger [(null)] - Processing CalculateNext(1402, 8).
+2017-04-16 17:13:29,770 [17] INFO  Logger [(null)] - Processing CalculateNext(1412, 8).
+2017-04-16 17:13:29,772 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:5.
+2017-04-16 17:13:29,775 [5] INFO  Logger [(null)] - Processing CalculateNext(1423, 3).
+2017-04-16 17:13:29,777 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:13.
+2017-04-16 17:13:29,783 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:5.
+2017-04-16 17:13:29,785 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:13.
+2017-04-16 17:13:29,787 [17] INFO  Logger [(null)] - Processing CalculateNext(1400, 8).
+2017-04-16 17:13:29,791 [5] INFO  Logger [(null)] - Processing CalculateNext(1411, 8).
+2017-04-16 17:13:29,795 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 8).
+2017-04-16 17:13:29,796 [5] INFO  Logger [(null)] - Processing CalculateNext(1397, 8).
+2017-04-16 17:13:29,791 [17] INFO  Logger [(null)] - Processing CalculateNext(1401, 8).
+2017-04-16 17:13:29,801 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 8).
+2017-04-16 17:13:29,806 [17] INFO  Logger [(null)] - Processing CalculateNext(1396, 8).
+2017-04-16 17:13:29,813 [6] INFO  Logger [(null)] - Sending Response Id:1411, Current:13.
+2017-04-16 17:13:29,813 [17] INFO  Logger [(null)] - Sending Response Id:1400, Current:13.
+2017-04-16 17:13:29,814 [17] INFO  Logger [(null)] - Sending Response Id:1401, Current:13.
+2017-04-16 17:13:29,814 [5] INFO  Logger [(null)] - Sending Response Id:1397, Current:13.
+2017-04-16 17:13:29,815 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:13.
+2017-04-16 17:13:29,815 [6] INFO  Logger [(null)] - Sending Response Id:1394, Current:13.
+2017-04-16 17:13:29,816 [17] INFO  Logger [(null)] - Sending Response Id:1396, Current:13.
+2017-04-16 17:13:29,819 [5] INFO  Logger [(null)] - Processing CalculateNext(1407, 8).
+2017-04-16 17:13:29,822 [6] INFO  Logger [(null)] - Processing CalculateNext(1409, 8).
+2017-04-16 17:13:29,826 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 8).
+2017-04-16 17:13:29,828 [6] INFO  Logger [(null)] - Processing CalculateNext(1395, 8).
+2017-04-16 17:13:29,831 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 8).
+2017-04-16 17:13:29,831 [5] INFO  Logger [(null)] - Processing CalculateNext(1421, 8).
+2017-04-16 17:13:29,835 [5] INFO  Logger [(null)] - Processing CalculateNext(1417, 8).
+2017-04-16 17:13:29,835 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 8).
+2017-04-16 17:13:29,851 [7] INFO  Logger [(null)] - Processing CalculateNext(1418, 8).
+2017-04-16 17:13:29,852 [6] INFO  Logger [(null)] - Sending Response Id:1407, Current:13.
+2017-04-16 17:13:29,852 [17] INFO  Logger [(null)] - Sending Response Id:1409, Current:13.
+2017-04-16 17:13:29,853 [17] INFO  Logger [(null)] - Sending Response Id:1398, Current:13.
+2017-04-16 17:13:29,853 [5] INFO  Logger [(null)] - Sending Response Id:1413, Current:13.
+2017-04-16 17:13:29,854 [6] INFO  Logger [(null)] - Sending Response Id:1416, Current:13.
+2017-04-16 17:13:29,855 [17] INFO  Logger [(null)] - Sending Response Id:1395, Current:13.
+2017-04-16 17:13:29,855 [6] INFO  Logger [(null)] - Sending Response Id:1421, Current:13.
+2017-04-16 17:13:29,858 [5] INFO  Logger [(null)] - Sending Response Id:1417, Current:13.
+2017-04-16 17:13:29,862 [5] INFO  Logger [(null)] - Processing CalculateNext(1408, 8).
+2017-04-16 17:13:29,866 [5] INFO  Logger [(null)] - Processing CalculateNext(1420, 8).
+2017-04-16 17:13:29,871 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:13.
+2017-04-16 17:13:29,872 [17] INFO  Logger [(null)] - Processing CalculateNext(1415, 8).
+2017-04-16 17:13:29,880 [17] INFO  Logger [(null)] - Processing CalculateNext(1399, 8).
+2017-04-16 17:13:29,892 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:13.
+2017-04-16 17:13:29,893 [5] INFO  Logger [(null)] - Processing CalculateNext(1403, 8).
+2017-04-16 17:13:29,894 [17] INFO  Logger [(null)] - Processing CalculateNext(1422, 8).
+2017-04-16 17:13:29,895 [7] INFO  Logger [(null)] - Sending Response Id:1420, Current:13.
+2017-04-16 17:13:29,897 [7] INFO  Logger [(null)] - Sending Response Id:1415, Current:13.
+2017-04-16 17:13:29,898 [6] INFO  Logger [(null)] - Sending Response Id:1399, Current:13.
+2017-04-16 17:13:29,902 [7] INFO  Logger [(null)] - Sending Response Id:1422, Current:13.
+2017-04-16 17:13:29,913 [17] INFO  Logger [(null)] - Processing CalculateNext(1405, 8).
+2017-04-16 17:13:29,917 [6] INFO  Logger [(null)] - Sending Response Id:1403, Current:13.
+2017-04-16 17:13:29,922 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 21).
+2017-04-16 17:13:29,924 [5] INFO  Logger [(null)] - Processing CalculateNext(1414, 8).
+2017-04-16 17:13:29,926 [17] INFO  Logger [(null)] - Sending Response Id:1405, Current:13.
+2017-04-16 17:13:29,932 [17] INFO  Logger [(null)] - Processing CalculateNext(1406, 21).
+2017-04-16 17:13:29,934 [7] INFO  Logger [(null)] - Sending Response Id:1404, Current:34.
+2017-04-16 17:13:29,946 [17] INFO  Logger [(null)] - Processing CalculateNext(1419, 8).
+2017-04-16 17:13:29,950 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:34.
+2017-04-16 17:13:29,953 [5] INFO  Logger [(null)] - Sending Response Id:1414, Current:13.
+2017-04-16 17:13:29,955 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:13.
+2017-04-16 17:13:29,958 [7] INFO  Logger [(null)] - Processing CalculateNext(1402, 21).
+2017-04-16 17:13:29,959 [17] INFO  Logger [(null)] - Processing CalculateNext(1423, 8).
+2017-04-16 17:13:29,959 [5] INFO  Logger [(null)] - Processing CalculateNext(1412, 21).
+2017-04-16 17:13:29,970 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 21).
+2017-04-16 17:13:29,975 [17] INFO  Logger [(null)] - Sending Response Id:1402, Current:34.
+2017-04-16 17:13:29,977 [6] INFO  Logger [(null)] - Sending Response Id:1423, Current:13.
+2017-04-16 17:13:29,977 [7] INFO  Logger [(null)] - Processing CalculateNext(1397, 21).
+2017-04-16 17:13:29,977 [5] INFO  Logger [(null)] - Processing CalculateNext(1411, 21).
+2017-04-16 17:13:29,978 [17] INFO  Logger [(null)] - Sending Response Id:1401, Current:34.
+2017-04-16 17:13:29,979 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:34.
+2017-04-16 17:13:29,985 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 21).
+2017-04-16 17:13:29,985 [17] INFO  Logger [(null)] - Sending Response Id:1397, Current:34.
+2017-04-16 17:13:29,988 [7] INFO  Logger [(null)] - Sending Response Id:1411, Current:34.
+2017-04-16 17:13:29,988 [5] INFO  Logger [(null)] - Processing CalculateNext(1410, 21).
+2017-04-16 17:13:29,994 [17] INFO  Logger [(null)] - Processing CalculateNext(1394, 21).
+2017-04-16 17:13:29,996 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:34.
+2017-04-16 17:13:29,997 [7] INFO  Logger [(null)] - Processing CalculateNext(1396, 21).
+2017-04-16 17:13:29,999 [5] INFO  Logger [(null)] - Sending Response Id:1410, Current:34.
+2017-04-16 17:13:30,004 [7] INFO  Logger [(null)] - Sending Response Id:1394, Current:34.
+2017-04-16 17:13:30,007 [17] INFO  Logger [(null)] - Processing CalculateNext(1409, 21).
+2017-04-16 17:13:30,008 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 21).
+2017-04-16 17:13:30,008 [5] INFO  Logger [(null)] - Sending Response Id:1396, Current:34.
+2017-04-16 17:13:30,018 [17] INFO  Logger [(null)] - Sending Response Id:1409, Current:34.
+2017-04-16 17:13:30,020 [6] INFO  Logger [(null)] - Processing CalculateNext(1421, 21).
+2017-04-16 17:13:30,019 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 21).
+2017-04-16 17:13:30,018 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:34.
+2017-04-16 17:13:30,024 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 21).
+2017-04-16 17:13:30,024 [17] INFO  Logger [(null)] - Processing CalculateNext(1395, 21).
+2017-04-16 17:13:30,028 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 21).
+2017-04-16 17:13:30,028 [7] INFO  Logger [(null)] - Processing CalculateNext(1413, 21).
+2017-04-16 17:13:30,032 [7] INFO  Logger [(null)] - Sending Response Id:1421, Current:34.
+2017-04-16 17:13:30,034 [17] INFO  Logger [(null)] - Processing CalculateNext(1398, 21).
+2017-04-16 17:13:30,036 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:34.
+2017-04-16 17:13:30,039 [5] INFO  Logger [(null)] - Sending Response Id:1417, Current:34.
+2017-04-16 17:13:30,041 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:34.
+2017-04-16 17:13:30,043 [17] INFO  Logger [(null)] - Sending Response Id:1418, Current:34.
+2017-04-16 17:13:30,046 [6] INFO  Logger [(null)] - Processing CalculateNext(1408, 21).
+2017-04-16 17:13:30,048 [6] INFO  Logger [(null)] - Sending Response Id:1413, Current:34.
+2017-04-16 17:13:30,048 [17] INFO  Logger [(null)] - Sending Response Id:1398, Current:34.
+2017-04-16 17:13:30,050 [5] INFO  Logger [(null)] - Processing CalculateNext(1420, 21).
+2017-04-16 17:13:30,054 [17] INFO  Logger [(null)] - Processing CalculateNext(1415, 21).
+2017-04-16 17:13:30,059 [5] INFO  Logger [(null)] - Processing CalculateNext(1399, 21).
+2017-04-16 17:13:30,061 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:34.
+2017-04-16 17:13:30,061 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 21).
+2017-04-16 17:13:30,064 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 21).
+2017-04-16 17:13:30,069 [17] INFO  Logger [(null)] - Sending Response Id:1420, Current:34.
+2017-04-16 17:13:30,071 [17] INFO  Logger [(null)] - Sending Response Id:1415, Current:34.
+2017-04-16 17:13:30,071 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:34.
+2017-04-16 17:13:30,074 [6] INFO  Logger [(null)] - Processing CalculateNext(1405, 21).
+2017-04-16 17:13:30,074 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 55).
+2017-04-16 17:13:30,074 [5] INFO  Logger [(null)] - Sending Response Id:1422, Current:34.
+2017-04-16 17:13:30,076 [17] INFO  Logger [(null)] - Sending Response Id:1403, Current:34.
+2017-04-16 17:13:30,087 [5] INFO  Logger [(null)] - Sending Response Id:1404, Current:89.
+2017-04-16 17:13:30,087 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:34.
+2017-04-16 17:13:30,090 [7] INFO  Logger [(null)] - Processing CalculateNext(1414, 21).
+2017-04-16 17:13:30,097 [17] INFO  Logger [(null)] - Processing CalculateNext(1406, 55).
+2017-04-16 17:13:30,107 [6] INFO  Logger [(null)] - Processing CalculateNext(1419, 21).
+2017-04-16 17:13:30,107 [5] INFO  Logger [(null)] - Processing CalculateNext(1423, 21).
+2017-04-16 17:13:30,109 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:34.
+2017-04-16 17:13:30,111 [6] INFO  Logger [(null)] - Sending Response Id:1406, Current:89.
+2017-04-16 17:13:30,114 [6] INFO  Logger [(null)] - Sending Response Id:1419, Current:34.
+2017-04-16 17:13:30,120 [6] INFO  Logger [(null)] - Processing CalculateNext(1402, 55).
+2017-04-16 17:13:30,122 [17] INFO  Logger [(null)] - Processing CalculateNext(1412, 55).
+2017-04-16 17:13:30,122 [5] INFO  Logger [(null)] - Processing CalculateNext(1401, 55).
+2017-04-16 17:13:30,122 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:34.
+2017-04-16 17:13:30,125 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 55).
+2017-04-16 17:13:30,128 [5] INFO  Logger [(null)] - Processing CalculateNext(1397, 55).
+2017-04-16 17:13:30,132 [6] INFO  Logger [(null)] - Sending Response Id:1402, Current:89.
+2017-04-16 17:13:30,135 [17] INFO  Logger [(null)] - Sending Response Id:1401, Current:89.
+2017-04-16 17:13:30,136 [6] INFO  Logger [(null)] - Sending Response Id:1411, Current:89.
+2017-04-16 17:13:30,137 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 55).
+2017-04-16 17:13:30,141 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:89.
+2017-04-16 17:13:30,148 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 55).
+2017-04-16 17:13:30,150 [6] INFO  Logger [(null)] - Sending Response Id:1400, Current:89.
+2017-04-16 17:13:30,152 [7] INFO  Logger [(null)] - Processing CalculateNext(1396, 55).
+2017-04-16 17:13:30,155 [5] INFO  Logger [(null)] - Processing CalculateNext(1410, 55).
+2017-04-16 17:13:30,156 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 55).
+2017-04-16 17:13:30,162 [7] INFO  Logger [(null)] - Sending Response Id:1394, Current:89.
+2017-04-16 17:13:30,163 [6] INFO  Logger [(null)] - Processing CalculateNext(1409, 55).
+2017-04-16 17:13:30,164 [7] INFO  Logger [(null)] - Sending Response Id:1396, Current:89.
+2017-04-16 17:13:30,164 [17] INFO  Logger [(null)] - Sending Response Id:1407, Current:89.
+2017-04-16 17:13:30,173 [5] INFO  Logger [(null)] - Sending Response Id:1409, Current:89.
+2017-04-16 17:13:30,173 [17] INFO  Logger [(null)] - Sending Response Id:1397, Current:89.
+2017-04-16 17:13:30,174 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:89.
+2017-04-16 17:13:30,180 [17] INFO  Logger [(null)] - Processing CalculateNext(1421, 55).
+2017-04-16 17:13:30,191 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 55).
+2017-04-16 17:13:30,197 [6] INFO  Logger [(null)] - Sending Response Id:1421, Current:89.
+2017-04-16 17:13:30,199 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:89.
+2017-04-16 17:13:30,200 [17] INFO  Logger [(null)] - Processing CalculateNext(1418, 55).
+2017-04-16 17:13:30,200 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 55).
+2017-04-16 17:13:30,203 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 55).
+2017-04-16 17:13:30,204 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 55).
+2017-04-16 17:13:30,210 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:89.
+2017-04-16 17:13:30,210 [17] INFO  Logger [(null)] - Processing CalculateNext(1395, 55).
+2017-04-16 17:13:30,213 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:89.
+2017-04-16 17:13:30,214 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:89.
+2017-04-16 17:13:30,219 [7] INFO  Logger [(null)] - Sending Response Id:1413, Current:89.
+2017-04-16 17:13:30,223 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:89.
+2017-04-16 17:13:30,223 [5] INFO  Logger [(null)] - Processing CalculateNext(1408, 55).
+2017-04-16 17:13:30,224 [17] INFO  Logger [(null)] - Processing CalculateNext(1420, 55).
+2017-04-16 17:13:30,230 [17] INFO  Logger [(null)] - Processing CalculateNext(1415, 55).
+2017-04-16 17:13:30,237 [17] INFO  Logger [(null)] - Processing CalculateNext(1422, 55).
+2017-04-16 17:13:30,237 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 55).
+2017-04-16 17:13:30,242 [5] INFO  Logger [(null)] - Sending Response Id:1420, Current:89.
+2017-04-16 17:13:30,251 [17] INFO  Logger [(null)] - Sending Response Id:1408, Current:89.
+2017-04-16 17:13:30,252 [6] INFO  Logger [(null)] - Sending Response Id:1422, Current:89.
+2017-04-16 17:13:30,254 [17] INFO  Logger [(null)] - Sending Response Id:1399, Current:89.
+2017-04-16 17:13:30,255 [17] INFO  Logger [(null)] - Sending Response Id:1415, Current:89.
+2017-04-16 17:13:30,259 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 55).
+2017-04-16 17:13:30,260 [17] INFO  Logger [(null)] - Processing CalculateNext(1405, 55).
+2017-04-16 17:13:30,266 [7] INFO  Logger [(null)] - Sending Response Id:1403, Current:89.
+2017-04-16 17:13:30,268 [6] INFO  Logger [(null)] - Processing CalculateNext(1404, 144).
+2017-04-16 17:13:30,273 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:89.
+2017-04-16 17:13:30,274 [7] INFO  Logger [(null)] - Sending Response Id:1404, Current:233.
+2017-04-16 17:13:30,278 [17] INFO  Logger [(null)] - Processing CalculateNext(1419, 55).
+2017-04-16 17:13:30,278 [7] INFO  Logger [(null)] - Processing CalculateNext(1423, 55).
+2017-04-16 17:13:30,278 [6] INFO  Logger [(null)] - Processing CalculateNext(1406, 144).
+2017-04-16 17:13:30,284 [5] INFO  Logger [(null)] - Processing CalculateNext(1414, 55).
+2017-04-16 17:13:30,288 [17] INFO  Logger [(null)] - Sending Response Id:1419, Current:89.
+2017-04-16 17:13:30,290 [5] INFO  Logger [(null)] - Sending Response Id:1423, Current:89.
+2017-04-16 17:13:30,291 [17] INFO  Logger [(null)] - Sending Response Id:1414, Current:89.
+2017-04-16 17:13:30,297 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 144).
+2017-04-16 17:13:30,301 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:233.
+2017-04-16 17:13:30,302 [17] INFO  Logger [(null)] - Processing CalculateNext(1411, 144).
+2017-04-16 17:13:30,303 [6] INFO  Logger [(null)] - Processing CalculateNext(1402, 144).
+2017-04-16 17:13:30,307 [5] INFO  Logger [(null)] - Processing CalculateNext(1412, 144).
+2017-04-16 17:13:30,308 [6] INFO  Logger [(null)] - Processing CalculateNext(1400, 144).
+2017-04-16 17:13:30,310 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:233.
+2017-04-16 17:13:30,314 [7] INFO  Logger [(null)] - Sending Response Id:1411, Current:233.
+2017-04-16 17:13:30,315 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:233.
+2017-04-16 17:13:30,316 [17] INFO  Logger [(null)] - Processing CalculateNext(1394, 144).
+2017-04-16 17:13:30,316 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:233.
+2017-04-16 17:13:30,317 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:233.
+2017-04-16 17:13:30,323 [17] INFO  Logger [(null)] - Processing CalculateNext(1407, 144).
+2017-04-16 17:13:30,323 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 144).
+2017-04-16 17:13:30,326 [5] INFO  Logger [(null)] - Sending Response Id:1394, Current:233.
+2017-04-16 17:13:30,334 [17] INFO  Logger [(null)] - Sending Response Id:1407, Current:233.
+2017-04-16 17:13:30,335 [7] INFO  Logger [(null)] - Sending Response Id:1396, Current:233.
+2017-04-16 17:13:30,340 [6] INFO  Logger [(null)] - Processing CalculateNext(1409, 144).
+2017-04-16 17:13:30,345 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 144).
+2017-04-16 17:13:30,345 [5] INFO  Logger [(null)] - Processing CalculateNext(1397, 144).
+2017-04-16 17:13:30,348 [6] INFO  Logger [(null)] - Sending Response Id:1409, Current:233.
+2017-04-16 17:13:30,349 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:233.
+2017-04-16 17:13:30,353 [17] INFO  Logger [(null)] - Processing CalculateNext(1421, 144).
+2017-04-16 17:13:30,355 [6] INFO  Logger [(null)] - Sending Response Id:1397, Current:233.
+2017-04-16 17:13:30,355 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 144).
+2017-04-16 17:13:30,361 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 144).
+2017-04-16 17:13:30,361 [17] INFO  Logger [(null)] - Processing CalculateNext(1418, 144).
+2017-04-16 17:13:30,370 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 144).
+2017-04-16 17:13:30,375 [7] INFO  Logger [(null)] - Processing CalculateNext(1395, 144).
+2017-04-16 17:13:30,378 [17] INFO  Logger [(null)] - Sending Response Id:1416, Current:233.
+2017-04-16 17:13:30,379 [5] INFO  Logger [(null)] - Sending Response Id:1421, Current:233.
+2017-04-16 17:13:30,388 [5] INFO  Logger [(null)] - Sending Response Id:1417, Current:233.
+2017-04-16 17:13:30,388 [6] INFO  Logger [(null)] - Processing CalculateNext(1420, 144).
+2017-04-16 17:13:30,389 [17] INFO  Logger [(null)] - Sending Response Id:1418, Current:233.
+2017-04-16 17:13:30,399 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:233.
+2017-04-16 17:13:30,399 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 144).
+2017-04-16 17:13:30,400 [17] INFO  Logger [(null)] - Sending Response Id:1395, Current:233.
+2017-04-16 17:13:30,413 [5] INFO  Logger [(null)] - Sending Response Id:1420, Current:233.
+2017-04-16 17:13:30,418 [5] INFO  Logger [(null)] - Processing CalculateNext(1408, 144).
+2017-04-16 17:13:30,421 [17] INFO  Logger [(null)] - Sending Response Id:1413, Current:233.
+2017-04-16 17:13:30,418 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 144).
+2017-04-16 17:13:30,429 [5] INFO  Logger [(null)] - Processing CalculateNext(1422, 144).
+2017-04-16 17:13:30,431 [17] INFO  Logger [(null)] - Processing CalculateNext(1403, 144).
+2017-04-16 17:13:30,434 [6] INFO  Logger [(null)] - Sending Response Id:1408, Current:233.
+2017-04-16 17:13:30,435 [17] INFO  Logger [(null)] - Processing CalculateNext(1405, 144).
+2017-04-16 17:13:30,436 [7] INFO  Logger [(null)] - Processing CalculateNext(1415, 144).
+2017-04-16 17:13:30,437 [17] INFO  Logger [(null)] - Sending Response Id:1399, Current:233.
+2017-04-16 17:13:30,438 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 377).
+2017-04-16 17:13:30,442 [17] INFO  Logger [(null)] - Sending Response Id:1422, Current:233.
+2017-04-16 17:13:30,447 [17] INFO  Logger [(null)] - Sending Response Id:1403, Current:233.
+2017-04-16 17:13:30,447 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:233.
+2017-04-16 17:13:30,449 [6] INFO  Logger [(null)] - Sending Response Id:1415, Current:233.
+2017-04-16 17:13:30,457 [6] INFO  Logger [(null)] - Processing CalculateNext(1423, 144).
+2017-04-16 17:13:30,460 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 144).
+2017-04-16 17:13:30,461 [5] INFO  Logger [(null)] - Sending Response Id:1404, Current:610.
+2017-04-16 17:13:30,465 [6] INFO  Logger [(null)] - Processing CalculateNext(1414, 144).
+2017-04-16 17:13:30,467 [17] INFO  Logger [(null)] - Processing CalculateNext(1406, 377).
+2017-04-16 17:13:30,471 [17] INFO  Logger [(null)] - Sending Response Id:1423, Current:233.
+2017-04-16 17:13:30,473 [17] INFO  Logger [(null)] - Sending Response Id:1419, Current:233.
+2017-04-16 17:13:30,473 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 377).
+2017-04-16 17:13:30,480 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:610.
+2017-04-16 17:13:30,484 [7] INFO  Logger [(null)] - Processing CalculateNext(1402, 377).
+2017-04-16 17:13:30,485 [17] INFO  Logger [(null)] - Sending Response Id:1414, Current:233.
+2017-04-16 17:13:30,488 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:610.
+2017-04-16 17:13:30,497 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 377).
+2017-04-16 17:13:30,497 [7] INFO  Logger [(null)] - Processing CalculateNext(1412, 377).
+2017-04-16 17:13:30,501 [17] INFO  Logger [(null)] - Sending Response Id:1402, Current:610.
+2017-04-16 17:13:30,507 [17] INFO  Logger [(null)] - Sending Response Id:1412, Current:610.
+2017-04-16 17:13:30,509 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 377).
+2017-04-16 17:13:30,514 [5] INFO  Logger [(null)] - Processing CalculateNext(1400, 377).
+2017-04-16 17:13:30,523 [17] INFO  Logger [(null)] - Sending Response Id:1411, Current:610.
+2017-04-16 17:13:30,523 [6] INFO  Logger [(null)] - Sending Response Id:1394, Current:610.
+2017-04-16 17:13:30,525 [17] INFO  Logger [(null)] - Processing CalculateNext(1407, 377).
+2017-04-16 17:13:30,536 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:610.
+2017-04-16 17:13:30,537 [7] INFO  Logger [(null)] - Processing CalculateNext(1396, 377).
+2017-04-16 17:13:30,538 [17] INFO  Logger [(null)] - Sending Response Id:1407, Current:610.
+2017-04-16 17:13:30,541 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 377).
+2017-04-16 17:13:30,542 [6] INFO  Logger [(null)] - Processing CalculateNext(1397, 377).
+2017-04-16 17:13:30,549 [17] INFO  Logger [(null)] - Sending Response Id:1396, Current:610.
+2017-04-16 17:13:30,553 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:610.
+2017-04-16 17:13:30,559 [5] INFO  Logger [(null)] - Processing CalculateNext(1410, 377).
+2017-04-16 17:13:30,566 [6] INFO  Logger [(null)] - Sending Response Id:1397, Current:610.
+2017-04-16 17:13:30,568 [5] INFO  Logger [(null)] - Processing CalculateNext(1416, 377).
+2017-04-16 17:13:30,570 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 377).
+2017-04-16 17:13:30,574 [7] INFO  Logger [(null)] - Processing CalculateNext(1421, 377).
+2017-04-16 17:13:30,574 [6] INFO  Logger [(null)] - Sending Response Id:1410, Current:610.
+2017-04-16 17:13:30,580 [17] INFO  Logger [(null)] - Sending Response Id:1416, Current:610.
+2017-04-16 17:13:30,580 [5] INFO  Logger [(null)] - Processing CalculateNext(1417, 377).
+2017-04-16 17:13:30,584 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:610.
+2017-04-16 17:13:30,587 [6] INFO  Logger [(null)] - Sending Response Id:1421, Current:610.
+2017-04-16 17:13:30,590 [5] INFO  Logger [(null)] - Processing CalculateNext(1395, 377).
+2017-04-16 17:13:30,593 [7] INFO  Logger [(null)] - Sending Response Id:1417, Current:610.
+2017-04-16 17:13:30,599 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:610.
+2017-04-16 17:13:30,603 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 377).
+2017-04-16 17:13:30,604 [17] INFO  Logger [(null)] - Processing CalculateNext(1420, 377).
+2017-04-16 17:13:30,611 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 377).
+2017-04-16 17:13:30,616 [17] INFO  Logger [(null)] - Processing CalculateNext(1422, 377).
+2017-04-16 17:13:30,616 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:610.
+2017-04-16 17:13:30,617 [7] INFO  Logger [(null)] - Sending Response Id:1420, Current:610.
+2017-04-16 17:13:30,619 [5] INFO  Logger [(null)] - Sending Response Id:1413, Current:610.
+2017-04-16 17:13:30,621 [17] INFO  Logger [(null)] - Processing CalculateNext(1418, 377).
+2017-04-16 17:13:30,630 [7] INFO  Logger [(null)] - Sending Response Id:1422, Current:610.
+2017-04-16 17:13:30,633 [6] INFO  Logger [(null)] - Processing CalculateNext(1408, 377).
+2017-04-16 17:13:30,636 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:610.
+2017-04-16 17:13:30,641 [5] INFO  Logger [(null)] - Processing CalculateNext(1405, 377).
+2017-04-16 17:13:30,646 [5] INFO  Logger [(null)] - Processing CalculateNext(1415, 377).
+2017-04-16 17:13:30,648 [17] INFO  Logger [(null)] - Sending Response Id:1408, Current:610.
+2017-04-16 17:13:30,650 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:610.
+2017-04-16 17:13:30,650 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 377).
+2017-04-16 17:13:30,653 [17] INFO  Logger [(null)] - Sending Response Id:1415, Current:610.
+2017-04-16 17:13:30,655 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 987).
+2017-04-16 17:13:30,655 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 377).
+2017-04-16 17:13:30,658 [17] INFO  Logger [(null)] - Sending Response Id:1403, Current:610.
+2017-04-16 17:13:30,659 [6] INFO  Logger [(null)] - Processing CalculateNext(1423, 377).
+2017-04-16 17:13:30,662 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:610.
+2017-04-16 17:13:30,666 [17] INFO  Logger [(null)] - Sending Response Id:1404, Current:1597.
+2017-04-16 17:13:30,671 [17] INFO  Logger [(null)] - Processing CalculateNext(1406, 987).
+2017-04-16 17:13:30,671 [7] INFO  Logger [(null)] - Processing CalculateNext(1414, 377).
+2017-04-16 17:13:30,678 [17] INFO  Logger [(null)] - Processing CalculateNext(1401, 987).
+2017-04-16 17:13:30,680 [6] INFO  Logger [(null)] - Sending Response Id:1423, Current:610.
+2017-04-16 17:13:30,681 [6] INFO  Logger [(null)] - Sending Response Id:1406, Current:1597.
+2017-04-16 17:13:30,682 [7] INFO  Logger [(null)] - Processing CalculateNext(1402, 987).
+2017-04-16 17:13:30,685 [7] INFO  Logger [(null)] - Processing CalculateNext(1411, 987).
+2017-04-16 17:13:30,685 [5] INFO  Logger [(null)] - Processing CalculateNext(1412, 987).
+2017-04-16 17:13:30,687 [17] INFO  Logger [(null)] - Sending Response Id:1401, Current:1597.
+2017-04-16 17:13:30,690 [6] INFO  Logger [(null)] - Sending Response Id:1402, Current:1597.
+2017-04-16 17:13:30,693 [17] INFO  Logger [(null)] - Sending Response Id:1412, Current:1597.
+2017-04-16 17:13:30,694 [6] INFO  Logger [(null)] - Sending Response Id:1411, Current:1597.
+2017-04-16 17:13:30,698 [5] INFO  Logger [(null)] - Processing CalculateNext(1394, 987).
+2017-04-16 17:13:30,698 [6] INFO  Logger [(null)] - Processing CalculateNext(1400, 987).
+2017-04-16 17:13:30,701 [7] INFO  Logger [(null)] - Sending Response Id:1414, Current:610.
+2017-04-16 17:13:30,707 [6] INFO  Logger [(null)] - Sending Response Id:1400, Current:1597.
+2017-04-16 17:13:30,708 [5] INFO  Logger [(null)] - Sending Response Id:1394, Current:1597.
+2017-04-16 17:13:30,710 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 987).
+2017-04-16 17:13:30,710 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 987).
+2017-04-16 17:13:30,718 [6] INFO  Logger [(null)] - Processing CalculateNext(1397, 987).
+2017-04-16 17:13:30,721 [6] INFO  Logger [(null)] - Sending Response Id:1396, Current:1597.
+2017-04-16 17:13:30,723 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 987).
+2017-04-16 17:13:30,723 [6] INFO  Logger [(null)] - Sending Response Id:1407, Current:1597.
+2017-04-16 17:13:30,724 [17] INFO  Logger [(null)] - Processing CalculateNext(1410, 987).
+2017-04-16 17:13:30,725 [6] INFO  Logger [(null)] - Sending Response Id:1397, Current:1597.
+2017-04-16 17:13:30,732 [5] INFO  Logger [(null)] - Processing CalculateNext(1416, 987).
+2017-04-16 17:13:30,734 [17] INFO  Logger [(null)] - Processing CalculateNext(1421, 987).
+2017-04-16 17:13:30,734 [6] INFO  Logger [(null)] - Sending Response Id:1409, Current:1597.
+2017-04-16 17:13:30,735 [5] INFO  Logger [(null)] - Sending Response Id:1410, Current:1597.
+2017-04-16 17:13:30,740 [17] INFO  Logger [(null)] - Processing CalculateNext(1398, 987).
+2017-04-16 17:13:30,742 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:1597.
+2017-04-16 17:13:30,744 [17] INFO  Logger [(null)] - Processing CalculateNext(1417, 987).
+2017-04-16 17:13:30,744 [5] INFO  Logger [(null)] - Sending Response Id:1421, Current:1597.
+2017-04-16 17:13:30,749 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:1597.
+2017-04-16 17:13:30,750 [7] INFO  Logger [(null)] - Processing CalculateNext(1395, 987).
+2017-04-16 17:13:30,754 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:1597.
+2017-04-16 17:13:30,760 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 987).
+2017-04-16 17:13:30,763 [6] INFO  Logger [(null)] - Sending Response Id:1395, Current:1597.
+2017-04-16 17:13:30,764 [17] INFO  Logger [(null)] - Processing CalculateNext(1420, 987).
+2017-04-16 17:13:30,764 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 987).
+2017-04-16 17:13:30,767 [5] INFO  Logger [(null)] - Sending Response Id:1413, Current:1597.
+2017-04-16 17:13:30,772 [7] INFO  Logger [(null)] - Processing CalculateNext(1422, 987).
+2017-04-16 17:13:30,773 [5] INFO  Logger [(null)] - Sending Response Id:1420, Current:1597.
+2017-04-16 17:13:30,774 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 987).
+2017-04-16 17:13:30,774 [17] INFO  Logger [(null)] - Sending Response Id:1399, Current:1597.
+2017-04-16 17:13:30,780 [5] INFO  Logger [(null)] - Sending Response Id:1422, Current:1597.
+2017-04-16 17:13:30,782 [7] INFO  Logger [(null)] - Processing CalculateNext(1408, 987).
+2017-04-16 17:13:30,783 [6] INFO  Logger [(null)] - Sending Response Id:1418, Current:1597.
+2017-04-16 17:13:30,790 [5] INFO  Logger [(null)] - Processing CalculateNext(1415, 987).
+2017-04-16 17:13:30,790 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:1597.
+2017-04-16 17:13:30,793 [17] INFO  Logger [(null)] - Processing CalculateNext(1405, 987).
+2017-04-16 17:13:30,797 [6] INFO  Logger [(null)] - Processing CalculateNext(1403, 987).
+2017-04-16 17:13:30,801 [6] INFO  Logger [(null)] - Sending Response Id:1415, Current:1597.
+2017-04-16 17:13:30,801 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 2584).
+2017-04-16 17:13:30,801 [17] INFO  Logger [(null)] - Sending Response Id:1403, Current:1597.
+2017-04-16 17:13:30,802 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:1597.
+2017-04-16 17:13:30,804 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 987).
+2017-04-16 17:13:30,814 [5] INFO  Logger [(null)] - Processing CalculateNext(1423, 987).
+2017-04-16 17:13:30,815 [7] INFO  Logger [(null)] - Sending Response Id:1404, Current:4181.
+2017-04-16 17:13:30,816 [6] INFO  Logger [(null)] - Sending Response Id:1419, Current:1597.
+2017-04-16 17:13:30,820 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 2584).
+2017-04-16 17:13:30,820 [17] INFO  Logger [(null)] - Processing CalculateNext(1406, 2584).
+2017-04-16 17:13:30,827 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 2584).
+2017-04-16 17:13:30,831 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 2584).
+2017-04-16 17:13:30,833 [17] INFO  Logger [(null)] - Sending Response Id:1423, Current:1597.
+2017-04-16 17:13:30,835 [7] INFO  Logger [(null)] - Processing CalculateNext(1402, 2584).
+2017-04-16 17:13:30,837 [17] INFO  Logger [(null)] - Sending Response Id:1406, Current:4181.
+2017-04-16 17:13:30,841 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:4181.
+2017-04-16 17:13:30,851 [10] INFO  Logger [(null)] - Sending Response Id:1411, Current:4181.
+2017-04-16 17:13:30,852 [17] INFO  Logger [(null)] - Sending Response Id:1402, Current:4181.
+2017-04-16 17:13:30,849 [7] INFO  Logger [(null)] - Sending Response Id:1412, Current:4181.
+2017-04-16 17:13:30,853 [12] INFO  Logger [(null)] - Processing CalculateNext(1400, 2584).
+2017-04-16 17:13:30,859 [27] INFO  Logger [(null)] - Processing CalculateNext(1394, 2584).
+2017-04-16 17:13:30,860 [6] INFO  Logger [(null)] - Processing CalculateNext(1414, 987).
+2017-04-16 17:13:30,863 [28] INFO  Logger [(null)] - Processing CalculateNext(1396, 2584).
+2017-04-16 17:13:30,868 [29] INFO  Logger [(null)] - Processing CalculateNext(1407, 2584).
+2017-04-16 17:13:30,874 [17] INFO  Logger [(null)] - Processing CalculateNext(1397, 2584).
+2017-04-16 17:13:30,877 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:1597.
+2017-04-16 17:13:30,882 [29] INFO  Logger [(null)] - Processing CalculateNext(1410, 2584).
+2017-04-16 17:13:30,875 [10] INFO  Logger [(null)] - Processing CalculateNext(1409, 2584).
+2017-04-16 17:13:30,892 [37] INFO  Logger [(null)] - Processing CalculateNext(1416, 2584).
+2017-04-16 17:13:30,894 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 2584).
+2017-04-16 17:13:30,895 [36] INFO  Logger [(null)] - Sending Response Id:1407, Current:4181.
+2017-04-16 17:13:30,907 [28] INFO  Logger [(null)] - Processing CalculateNext(1399, 2584).
+2017-04-16 17:13:30,907 [33] INFO  Logger [(null)] - Processing CalculateNext(1395, 2584).
+2017-04-16 17:13:30,900 [26] INFO  Logger [(null)] - Sending Response Id:1396, Current:4181.
+2017-04-16 17:13:30,906 [27] INFO  Logger [(null)] - Processing CalculateNext(1413, 2584).
+2017-04-16 17:13:30,901 [35] INFO  Logger [(null)] - Processing CalculateNext(1421, 2584).
+2017-04-16 17:13:30,912 [31] INFO  Logger [(null)] - Processing CalculateNext(1420, 2584).
+2017-04-16 17:13:30,893 [17] INFO  Logger [(null)] - Processing CalculateNext(1398, 2584).
+2017-04-16 17:13:30,925 [34] INFO  Logger [(null)] - Sending Response Id:1394, Current:4181.
+2017-04-16 17:13:30,928 [36] INFO  Logger [(null)] - Sending Response Id:1416, Current:4181.
+2017-04-16 17:13:30,931 [35] INFO  Logger [(null)] - Sending Response Id:1421, Current:4181.
+2017-04-16 17:13:30,933 [36] INFO  Logger [(null)] - Processing CalculateNext(1418, 2584).
+2017-04-16 17:13:30,938 [33] INFO  Logger [(null)] - Processing CalculateNext(1403, 2584).
+2017-04-16 17:13:30,934 [35] INFO  Logger [(null)] - Processing CalculateNext(1415, 2584).
+2017-04-16 17:13:30,934 [37] INFO  Logger [(null)] - Processing CalculateNext(1408, 2584).
+2017-04-16 17:13:30,945 [37] INFO  Logger [(null)] - Processing CalculateNext(1404, 6765).
+2017-04-16 17:13:30,947 [35] INFO  Logger [(null)] - Processing CalculateNext(1419, 2584).
+2017-04-16 17:13:30,950 [37] INFO  Logger [(null)] - Processing CalculateNext(1406, 6765).
+2017-04-16 17:13:30,951 [33] INFO  Logger [(null)] - Processing CalculateNext(1423, 2584).
+2017-04-16 17:13:30,956 [32] INFO  Logger [(null)] - Processing CalculateNext(1401, 6765).
+2017-04-16 17:13:30,959 [36] INFO  Logger [(null)] - Processing CalculateNext(1411, 6765).
+2017-04-16 17:13:30,959 [34] INFO  Logger [(null)] - Processing CalculateNext(1405, 2584).
+2017-04-16 17:13:30,960 [37] INFO  Logger [(null)] - Processing CalculateNext(1402, 6765).
+2017-04-16 17:13:30,960 [35] INFO  Logger [(null)] - Processing CalculateNext(1412, 6765).
+2017-04-16 17:13:30,963 [30] INFO  Logger [(null)] - Processing CalculateNext(1422, 2584).
+2017-04-16 17:13:30,966 [33] INFO  Logger [(null)] - Processing CalculateNext(1414, 2584).
+2017-04-16 17:13:30,973 [36] INFO  Logger [(null)] - Sending Response Id:1395, Current:4181.
+2017-04-16 17:13:30,995 [29] INFO  Logger [(null)] - Sending Response Id:1410, Current:4181.
+2017-04-16 17:13:31,001 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 6765).
+2017-04-16 17:13:31,017 [37] INFO  Logger [(null)] - Processing CalculateNext(1394, 6765).
+2017-04-16 17:13:31,021 [36] INFO  Logger [(null)] - Processing CalculateNext(1396, 6765).
+2017-04-16 17:13:31,048 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 6765).
+2017-04-16 17:13:31,057 [34] INFO  Logger [(null)] - Processing CalculateNext(1421, 6765).
+2017-04-16 17:13:31,080 [35] INFO  Logger [(null)] - Sending Response Id:1408, Current:4181.
+2017-04-16 17:13:31,080 [37] INFO  Logger [(null)] - Sending Response Id:1403, Current:4181.
+2017-04-16 17:13:31,080 [33] INFO  Logger [(null)] - Sending Response Id:1404, Current:10946.
+2017-04-16 17:13:31,080 [36] INFO  Logger [(null)] - Sending Response Id:1419, Current:4181.
+2017-04-16 17:13:31,083 [37] INFO  Logger [(null)] - Sending Response Id:1417, Current:4181.
+2017-04-16 17:13:31,084 [36] INFO  Logger [(null)] - Sending Response Id:1423, Current:4181.
+2017-04-16 17:13:31,084 [35] INFO  Logger [(null)] - Sending Response Id:1405, Current:4181.
+2017-04-16 17:13:31,091 [31] INFO  Logger [(null)] - Sending Response Id:1411, Current:10946.
+2017-04-16 17:13:31,093 [36] INFO  Logger [(null)] - Sending Response Id:1401, Current:10946.
+2017-04-16 17:13:31,095 [34] INFO  Logger [(null)] - Processing CalculateNext(1410, 6765).
+2017-04-16 17:13:31,102 [36] INFO  Logger [(null)] - Sending Response Id:1402, Current:10946.
+2017-04-16 17:13:31,103 [34] INFO  Logger [(null)] - Sending Response Id:1396, Current:10946.
+2017-04-16 17:13:31,091 [33] INFO  Logger [(null)] - Sending Response Id:1420, Current:4181.
+2017-04-16 17:13:31,105 [36] INFO  Logger [(null)] - Sending Response Id:1407, Current:10946.
+2017-04-16 17:13:31,106 [37] INFO  Logger [(null)] - Sending Response Id:1394, Current:10946.
+2017-04-16 17:13:31,106 [34] INFO  Logger [(null)] - Sending Response Id:1414, Current:4181.
+2017-04-16 17:13:31,095 [32] INFO  Logger [(null)] - Processing CalculateNext(1395, 6765).
+2017-04-16 17:13:31,109 [34] INFO  Logger [(null)] - Sending Response Id:1422, Current:4181.
+2017-04-16 17:13:31,111 [33] INFO  Logger [(null)] - Processing CalculateNext(1405, 6765).
+2017-04-16 17:13:31,117 [37] INFO  Logger [(null)] - Sending Response Id:1397, Current:4181.
+2017-04-16 17:13:31,122 [32] INFO  Logger [(null)] - Sending Response Id:1395, Current:10946.
+2017-04-16 17:13:31,123 [35] INFO  Logger [(null)] - Processing CalculateNext(1403, 6765).
+2017-04-16 17:13:31,113 [36] INFO  Logger [(null)] - Sending Response Id:1410, Current:10946.
+2017-04-16 17:13:31,118 [34] INFO  Logger [(null)] - Sending Response Id:1421, Current:10946.
+2017-04-16 17:13:31,098 [30] INFO  Logger [(null)] - Sending Response Id:1412, Current:10946.
+2017-04-16 17:13:31,134 [10] INFO  Logger [(null)] - Sending Response Id:1409, Current:4181.
+2017-04-16 17:13:31,135 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:10946.
+2017-04-16 17:13:31,154 [10] INFO  Logger [(null)] - Sending Response Id:1405, Current:10946.
+2017-04-16 17:13:31,157 [5] INFO  Logger [(null)] - Sending Response Id:1415, Current:4181.
+2017-04-16 17:13:31,157 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:4181.
+2017-04-16 17:13:31,158 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:4181.
+2017-04-16 17:13:31,159 [10] INFO  Logger [(null)] - Sending Response Id:1403, Current:10946.
+2017-04-16 17:13:31,158 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 6765).
+2017-04-16 17:13:31,163 [5] INFO  Logger [(null)] - Sending Response Id:1398, Current:4181.
+2017-04-16 17:13:31,162 [6] INFO  Logger [(null)] - Processing CalculateNext(1423, 6765).
+2017-04-16 17:13:31,165 [10] INFO  Logger [(null)] - Sending Response Id:1416, Current:10946.
+2017-04-16 17:13:31,174 [6] INFO  Logger [(null)] - Sending Response Id:1400, Current:4181.
+2017-04-16 17:13:31,177 [5] INFO  Logger [(null)] - Sending Response Id:1419, Current:10946.
+2017-04-16 17:13:31,179 [10] INFO  Logger [(null)] - Sending Response Id:1423, Current:10946.
+2017-04-16 17:13:31,182 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 17711).
+2017-04-16 17:13:31,184 [6] INFO  Logger [(null)] - Sending Response Id:1399, Current:4181.
+2017-04-16 17:13:31,186 [10] INFO  Logger [(null)] - Processing CalculateNext(1420, 6765).
+2017-04-16 17:13:31,186 [5] INFO  Logger [(null)] - Processing CalculateNext(1394, 17711).
+2017-04-16 17:13:31,191 [10] INFO  Logger [(null)] - Sending Response Id:1401, Current:28657.
+2017-04-16 17:13:31,195 [10] INFO  Logger [(null)] - Sending Response Id:1420, Current:10946.
+2017-04-16 17:13:31,197 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 17711).
+2017-04-16 17:13:31,199 [7] INFO  Logger [(null)] - Sending Response Id:1394, Current:28657.
+2017-04-16 17:13:31,201 [5] INFO  Logger [(null)] - Processing CalculateNext(1407, 17711).
+2017-04-16 17:13:31,201 [10] INFO  Logger [(null)] - Processing CalculateNext(1396, 17711).
+2017-04-16 17:13:31,202 [6] INFO  Logger [(null)] - Processing CalculateNext(1402, 17711).
+2017-04-16 17:13:31,208 [6] INFO  Logger [(null)] - Processing CalculateNext(1414, 6765).
+2017-04-16 17:13:31,209 [5] INFO  Logger [(null)] - Sending Response Id:1411, Current:28657.
+2017-04-16 17:13:31,211 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:28657.
+2017-04-16 17:13:31,213 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:28657.
+2017-04-16 17:13:31,213 [10] INFO  Logger [(null)] - Sending Response Id:1396, Current:28657.
+2017-04-16 17:13:31,215 [5] INFO  Logger [(null)] - Sending Response Id:1414, Current:10946.
+2017-04-16 17:13:31,219 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 6765).
+2017-04-16 17:13:31,219 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 6765).
+2017-04-16 17:13:31,226 [5] INFO  Logger [(null)] - Processing CalculateNext(1408, 6765).
+2017-04-16 17:13:31,226 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 17711).
+2017-04-16 17:13:31,228 [7] INFO  Logger [(null)] - Sending Response Id:1417, Current:10946.
+2017-04-16 17:13:31,230 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 17711).
+2017-04-16 17:13:31,236 [10] INFO  Logger [(null)] - Processing CalculateNext(1410, 17711).
+2017-04-16 17:13:31,239 [6] INFO  Logger [(null)] - Sending Response Id:1406, Current:28657.
+2017-04-16 17:13:31,240 [7] INFO  Logger [(null)] - Sending Response Id:1422, Current:10946.
+2017-04-16 17:13:31,241 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 17711).
+2017-04-16 17:13:31,243 [7] INFO  Logger [(null)] - Sending Response Id:1412, Current:28657.
+2017-04-16 17:13:31,245 [6] INFO  Logger [(null)] - Sending Response Id:1410, Current:28657.
+2017-04-16 17:13:31,248 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:10946.
+2017-04-16 17:13:31,255 [5] INFO  Logger [(null)] - Sending Response Id:1404, Current:28657.
+2017-04-16 17:13:31,278 [10] INFO  Logger [(null)] - Processing CalculateNext(1397, 6765).
+2017-04-16 17:13:31,284 [5] INFO  Logger [(null)] - Processing CalculateNext(1395, 17711).
+2017-04-16 17:13:31,286 [7] INFO  Logger [(null)] - Processing CalculateNext(1405, 17711).
+2017-04-16 17:13:31,286 [6] INFO  Logger [(null)] - Processing CalculateNext(1409, 6765).
+2017-04-16 17:13:31,289 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 6765).
+2017-04-16 17:13:31,291 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:10946.
+2017-04-16 17:13:31,294 [5] INFO  Logger [(null)] - Processing CalculateNext(1403, 17711).
+2017-04-16 17:13:31,318 [6] INFO  Logger [(null)] - Processing CalculateNext(1415, 6765).
+2017-04-16 17:13:31,320 [7] INFO  Logger [(null)] - Processing CalculateNext(1418, 6765).
+2017-04-16 17:13:31,321 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:28657.
+2017-04-16 17:13:31,323 [10] INFO  Logger [(null)] - Processing CalculateNext(1398, 6765).
+2017-04-16 17:13:31,324 [7] INFO  Logger [(null)] - Sending Response Id:1405, Current:28657.
+2017-04-16 17:13:31,332 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:10946.
+2017-04-16 17:13:31,336 [6] INFO  Logger [(null)] - Sending Response Id:1413, Current:10946.
+2017-04-16 17:13:31,337 [5] INFO  Logger [(null)] - Sending Response Id:1415, Current:10946.
+2017-04-16 17:13:31,339 [6] INFO  Logger [(null)] - Sending Response Id:1403, Current:28657.
+2017-04-16 17:13:31,341 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:10946.
+2017-04-16 17:13:31,342 [10] INFO  Logger [(null)] - Processing CalculateNext(1421, 17711).
+2017-04-16 17:13:31,350 [10] INFO  Logger [(null)] - Sending Response Id:1398, Current:10946.
+2017-04-16 17:13:31,352 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 17711).
+2017-04-16 17:13:31,363 [5] INFO  Logger [(null)] - Sending Response Id:1421, Current:28657.
+2017-04-16 17:13:31,364 [10] INFO  Logger [(null)] - Sending Response Id:1416, Current:28657.
+2017-04-16 17:13:31,365 [6] INFO  Logger [(null)] - Processing CalculateNext(1419, 17711).
+2017-04-16 17:13:31,365 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 6765).
+2017-04-16 17:13:31,372 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 6765).
+2017-04-16 17:13:31,372 [5] INFO  Logger [(null)] - Processing CalculateNext(1423, 17711).
+2017-04-16 17:13:31,376 [6] INFO  Logger [(null)] - Processing CalculateNext(1401, 46368).
+2017-04-16 17:13:31,381 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:28657.
+2017-04-16 17:13:31,382 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:10946.
+2017-04-16 17:13:31,383 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:10946.
+2017-04-16 17:13:31,384 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:28657.
+2017-04-16 17:13:31,386 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:75025.
+2017-04-16 17:13:31,389 [10] INFO  Logger [(null)] - Processing CalculateNext(1420, 17711).
+2017-04-16 17:13:31,388 [7] INFO  Logger [(null)] - Processing CalculateNext(1411, 46368).
+2017-04-16 17:13:31,404 [10] INFO  Logger [(null)] - Sending Response Id:1420, Current:28657.
+2017-04-16 17:13:31,405 [7] INFO  Logger [(null)] - Sending Response Id:1411, Current:75025.
+2017-04-16 17:13:31,407 [6] INFO  Logger [(null)] - Processing CalculateNext(1394, 46368).
+2017-04-16 17:13:31,410 [10] INFO  Logger [(null)] - Processing CalculateNext(1407, 46368).
+2017-04-16 17:13:31,410 [5] INFO  Logger [(null)] - Processing CalculateNext(1396, 46368).
+2017-04-16 17:13:31,415 [7] INFO  Logger [(null)] - Processing CalculateNext(1414, 17711).
+2017-04-16 17:13:31,417 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 17711).
+2017-04-16 17:13:31,422 [10] INFO  Logger [(null)] - Processing CalculateNext(1402, 46368).
+2017-04-16 17:13:31,430 [10] INFO  Logger [(null)] - Sending Response Id:1394, Current:75025.
+2017-04-16 17:13:31,431 [7] INFO  Logger [(null)] - Sending Response Id:1407, Current:75025.
+2017-04-16 17:13:31,431 [10] INFO  Logger [(null)] - Sending Response Id:1396, Current:75025.
+2017-04-16 17:13:31,432 [7] INFO  Logger [(null)] - Sending Response Id:1414, Current:28657.
+2017-04-16 17:13:31,433 [10] INFO  Logger [(null)] - Sending Response Id:1417, Current:28657.
+2017-04-16 17:13:31,434 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:75025.
+2017-04-16 17:13:31,436 [5] INFO  Logger [(null)] - Processing CalculateNext(1406, 46368).
+2017-04-16 17:13:31,437 [7] INFO  Logger [(null)] - Processing CalculateNext(1408, 17711).
+2017-04-16 17:13:31,437 [6] INFO  Logger [(null)] - Processing CalculateNext(1410, 46368).
+2017-04-16 17:13:31,437 [10] INFO  Logger [(null)] - Processing CalculateNext(1422, 17711).
+2017-04-16 17:13:31,446 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 46368).
+2017-04-16 17:13:31,450 [10] INFO  Logger [(null)] - Processing CalculateNext(1397, 17711).
+2017-04-16 17:13:31,450 [7] INFO  Logger [(null)] - Processing CalculateNext(1395, 46368).
+2017-04-16 17:13:31,450 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 46368).
+2017-04-16 17:13:31,457 [10] INFO  Logger [(null)] - Sending Response Id:1406, Current:75025.
+2017-04-16 17:13:31,460 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:28657.
+2017-04-16 17:13:31,460 [10] INFO  Logger [(null)] - Sending Response Id:1410, Current:75025.
+2017-04-16 17:13:31,461 [5] INFO  Logger [(null)] - Sending Response Id:1422, Current:28657.
+2017-04-16 17:13:31,462 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:28657.
+2017-04-16 17:13:31,463 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:75025.
+2017-04-16 17:13:31,461 [7] INFO  Logger [(null)] - Sending Response Id:1404, Current:75025.
+2017-04-16 17:13:31,464 [10] INFO  Logger [(null)] - Sending Response Id:1412, Current:75025.
+2017-04-16 17:13:31,469 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 17711).
+2017-04-16 17:13:31,469 [6] INFO  Logger [(null)] - Processing CalculateNext(1405, 46368).
+2017-04-16 17:13:31,475 [10] INFO  Logger [(null)] - Processing CalculateNext(1413, 17711).
+2017-04-16 17:13:31,486 [6] INFO  Logger [(null)] - Sending Response Id:1409, Current:28657.
+2017-04-16 17:13:31,489 [10] INFO  Logger [(null)] - Sending Response Id:1405, Current:75025.
+2017-04-16 17:13:31,491 [7] INFO  Logger [(null)] - Processing CalculateNext(1415, 17711).
+2017-04-16 17:13:31,493 [6] INFO  Logger [(null)] - Sending Response Id:1413, Current:28657.
+2017-04-16 17:13:31,501 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 46368).
+2017-04-16 17:13:31,504 [6] INFO  Logger [(null)] - Sending Response Id:1415, Current:28657.
+2017-04-16 17:13:31,508 [6] INFO  Logger [(null)] - Processing CalculateNext(1421, 46368).
+2017-04-16 17:13:31,508 [5] INFO  Logger [(null)] - Processing CalculateNext(1398, 17711).
+2017-04-16 17:13:31,508 [7] INFO  Logger [(null)] - Sending Response Id:1403, Current:75025.
+2017-04-16 17:13:31,511 [10] INFO  Logger [(null)] - Processing CalculateNext(1418, 17711).
+2017-04-16 17:13:31,515 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 46368).
+2017-04-16 17:13:31,518 [6] INFO  Logger [(null)] - Sending Response Id:1421, Current:75025.
+2017-04-16 17:13:31,519 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:28657.
+2017-04-16 17:13:31,521 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:75025.
+2017-04-16 17:13:31,524 [6] INFO  Logger [(null)] - Sending Response Id:1418, Current:28657.
+2017-04-16 17:13:31,528 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 17711).
+2017-04-16 17:13:31,539 [10] INFO  Logger [(null)] - Processing CalculateNext(1399, 17711).
+2017-04-16 17:13:31,527 [5] INFO  Logger [(null)] - Processing CalculateNext(1419, 46368).
+2017-04-16 17:13:31,544 [10] INFO  Logger [(null)] - Processing CalculateNext(1423, 46368).
+2017-04-16 17:13:31,544 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:28657.
+2017-04-16 17:13:31,548 [5] INFO  Logger [(null)] - Processing CalculateNext(1420, 46368).
+2017-04-16 17:13:31,548 [6] INFO  Logger [(null)] - Processing CalculateNext(1401, 121393).
+2017-04-16 17:13:31,549 [10] INFO  Logger [(null)] - Sending Response Id:1399, Current:28657.
+2017-04-16 17:13:31,551 [10] INFO  Logger [(null)] - Sending Response Id:1419, Current:75025.
+2017-04-16 17:13:31,556 [10] INFO  Logger [(null)] - Sending Response Id:1420, Current:75025.
+2017-04-16 17:13:31,557 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:75025.
+2017-04-16 17:13:31,556 [6] INFO  Logger [(null)] - Sending Response Id:1401, Current:196418.
+2017-04-16 17:13:31,564 [10] INFO  Logger [(null)] - Processing CalculateNext(1407, 121393).
+2017-04-16 17:13:31,571 [7] INFO  Logger [(null)] - Processing CalculateNext(1396, 121393).
+2017-04-16 17:13:31,575 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 46368).
+2017-04-16 17:13:31,578 [5] INFO  Logger [(null)] - Processing CalculateNext(1411, 121393).
+2017-04-16 17:13:31,578 [6] INFO  Logger [(null)] - Processing CalculateNext(1394, 121393).
+2017-04-16 17:13:31,579 [10] INFO  Logger [(null)] - Processing CalculateNext(1417, 46368).
+2017-04-16 17:13:31,584 [7] INFO  Logger [(null)] - Sending Response Id:1407, Current:196418.
+2017-04-16 17:13:31,585 [7] INFO  Logger [(null)] - Sending Response Id:1396, Current:196418.
+2017-04-16 17:13:31,585 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:75025.
+2017-04-16 17:13:31,586 [7] INFO  Logger [(null)] - Sending Response Id:1411, Current:196418.
+2017-04-16 17:13:31,586 [6] INFO  Logger [(null)] - Sending Response Id:1394, Current:196418.
+2017-04-16 17:13:31,588 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:75025.
+2017-04-16 17:13:31,591 [5] INFO  Logger [(null)] - Processing CalculateNext(1402, 121393).
+2017-04-16 17:13:31,601 [6] INFO  Logger [(null)] - Processing CalculateNext(1406, 121393).
+2017-04-16 17:13:31,607 [5] INFO  Logger [(null)] - Sending Response Id:1402, Current:196418.
+2017-04-16 17:13:31,610 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 121393).
+2017-04-16 17:13:31,611 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:196418.
+2017-04-16 17:13:31,610 [10] INFO  Logger [(null)] - Processing CalculateNext(1408, 46368).
+2017-04-16 17:13:31,615 [7] INFO  Logger [(null)] - Processing CalculateNext(1397, 46368).
+2017-04-16 17:13:31,616 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 46368).
+2017-04-16 17:13:31,619 [10] INFO  Logger [(null)] - Processing CalculateNext(1395, 121393).
+2017-04-16 17:13:31,620 [5] INFO  Logger [(null)] - Sending Response Id:1410, Current:196418.
+2017-04-16 17:13:31,622 [7] INFO  Logger [(null)] - Processing CalculateNext(1412, 121393).
+2017-04-16 17:13:31,623 [6] INFO  Logger [(null)] - Processing CalculateNext(1404, 121393).
+2017-04-16 17:13:31,623 [10] INFO  Logger [(null)] - Processing CalculateNext(1405, 121393).
+2017-04-16 17:13:31,628 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:75025.
+2017-04-16 17:13:31,630 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:75025.
+2017-04-16 17:13:31,635 [5] INFO  Logger [(null)] - Processing CalculateNext(1409, 46368).
+2017-04-16 17:13:31,637 [10] INFO  Logger [(null)] - Sending Response Id:1422, Current:75025.
+2017-04-16 17:13:31,640 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:196418.
+2017-04-16 17:13:31,641 [10] INFO  Logger [(null)] - Sending Response Id:1412, Current:196418.
+2017-04-16 17:13:31,641 [6] INFO  Logger [(null)] - Sending Response Id:1404, Current:196418.
+2017-04-16 17:13:31,643 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 46368).
+2017-04-16 17:13:31,643 [10] INFO  Logger [(null)] - Sending Response Id:1405, Current:196418.
+2017-04-16 17:13:31,647 [6] INFO  Logger [(null)] - Sending Response Id:1409, Current:75025.
+2017-04-16 17:13:31,656 [7] INFO  Logger [(null)] - Processing CalculateNext(1415, 46368).
+2017-04-16 17:13:31,661 [6] INFO  Logger [(null)] - Sending Response Id:1413, Current:75025.
+2017-04-16 17:13:31,661 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 121393).
+2017-04-16 17:13:31,669 [10] INFO  Logger [(null)] - Processing CalculateNext(1421, 121393).
+2017-04-16 17:13:31,662 [5] INFO  Logger [(null)] - Sending Response Id:1415, Current:75025.
+2017-04-16 17:13:31,674 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 121393).
+2017-04-16 17:13:31,677 [10] INFO  Logger [(null)] - Processing CalculateNext(1398, 46368).
+2017-04-16 17:13:31,678 [5] INFO  Logger [(null)] - Sending Response Id:1403, Current:196418.
+2017-04-16 17:13:31,679 [5] INFO  Logger [(null)] - Sending Response Id:1421, Current:196418.
+2017-04-16 17:13:31,680 [7] INFO  Logger [(null)] - Processing CalculateNext(1418, 46368).
+2017-04-16 17:13:31,690 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:196418.
+2017-04-16 17:13:31,690 [10] INFO  Logger [(null)] - Processing CalculateNext(1400, 46368).
+2017-04-16 17:13:31,696 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:75025.
+2017-04-16 17:13:31,701 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:75025.
+2017-04-16 17:13:31,705 [10] INFO  Logger [(null)] - Processing CalculateNext(1399, 46368).
+2017-04-16 17:13:31,711 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 121393).
+2017-04-16 17:13:31,713 [6] INFO  Logger [(null)] - Sending Response Id:1418, Current:75025.
+2017-04-16 17:13:31,717 [7] INFO  Logger [(null)] - Processing CalculateNext(1423, 121393).
+2017-04-16 17:13:31,717 [5] INFO  Logger [(null)] - Processing CalculateNext(1420, 121393).
+2017-04-16 17:13:31,717 [10] INFO  Logger [(null)] - Processing CalculateNext(1401, 317811).
+2017-04-16 17:13:31,727 [5] INFO  Logger [(null)] - Sending Response Id:1419, Current:196418.
+2017-04-16 17:13:31,735 [6] INFO  Logger [(null)] - Sending Response Id:1423, Current:196418.
+2017-04-16 17:13:31,737 [5] INFO  Logger [(null)] - Sending Response Id:1420, Current:196418.
+2017-04-16 17:13:31,739 [6] INFO  Logger [(null)] - Sending Response Id:1401, Current:514229.
+2017-04-16 17:13:31,749 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:75025.
+2017-04-16 17:13:31,752 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 317811).
+2017-04-16 17:13:31,761 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 317811).
+2017-04-16 17:13:31,776 [6] INFO  Logger [(null)] - Processing CalculateNext(1414, 121393).
+2017-04-16 17:13:31,778 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:514229.
+2017-04-16 17:13:31,795 [6] INFO  Logger [(null)] - Processing CalculateNext(1394, 317811).
+2017-04-16 17:13:31,807 [7] INFO  Logger [(null)] - Sending Response Id:1396, Current:514229.
+2017-04-16 17:13:31,807 [10] INFO  Logger [(null)] - Processing CalculateNext(1411, 317811).
+2017-04-16 17:13:31,808 [7] INFO  Logger [(null)] - Sending Response Id:1414, Current:196418.
+2017-04-16 17:13:31,810 [6] INFO  Logger [(null)] - Sending Response Id:1394, Current:514229.
+2017-04-16 17:13:31,819 [10] INFO  Logger [(null)] - Sending Response Id:1411, Current:514229.
+2017-04-16 17:13:31,822 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 121393).
+2017-04-16 17:13:31,824 [5] INFO  Logger [(null)] - Processing CalculateNext(1402, 317811).
+2017-04-16 17:13:31,824 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 317811).
+2017-04-16 17:13:31,832 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 317811).
+2017-04-16 17:13:31,833 [10] INFO  Logger [(null)] - Sending Response Id:1417, Current:196418.
+2017-04-16 17:13:31,833 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:514229.
+2017-04-16 17:13:31,834 [10] INFO  Logger [(null)] - Sending Response Id:1402, Current:514229.
+2017-04-16 17:13:31,838 [7] INFO  Logger [(null)] - Processing CalculateNext(1408, 121393).
+2017-04-16 17:13:31,850 [5] INFO  Logger [(null)] - Processing CalculateNext(1422, 121393).
+2017-04-16 17:13:31,857 [6] INFO  Logger [(null)] - Processing CalculateNext(1397, 121393).
+2017-04-16 17:13:31,862 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:514229.
+2017-04-16 17:13:31,867 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:196418.
+2017-04-16 17:13:31,870 [10] INFO  Logger [(null)] - Processing CalculateNext(1395, 317811).
+2017-04-16 17:13:31,869 [6] INFO  Logger [(null)] - Sending Response Id:1397, Current:196418.
+2017-04-16 17:13:31,878 [6] INFO  Logger [(null)] - Sending Response Id:1422, Current:196418.
+2017-04-16 17:13:31,879 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:514229.
+2017-04-16 17:13:31,882 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 317811).
+2017-04-16 17:13:31,883 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 317811).
+2017-04-16 17:13:31,911 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:514229.
+2017-04-16 17:13:31,913 [10] INFO  Logger [(null)] - Sending Response Id:1404, Current:514229.
+2017-04-16 17:13:31,916 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 121393).
+2017-04-16 17:13:31,921 [10] INFO  Logger [(null)] - Processing CalculateNext(1413, 121393).
+2017-04-16 17:13:31,926 [5] INFO  Logger [(null)] - Processing CalculateNext(1405, 317811).
+2017-04-16 17:13:31,927 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:196418.
+2017-04-16 17:13:31,928 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:196418.
+2017-04-16 17:13:31,936 [6] INFO  Logger [(null)] - Processing CalculateNext(1415, 121393).
+2017-04-16 17:13:31,941 [10] INFO  Logger [(null)] - Processing CalculateNext(1403, 317811).
+2017-04-16 17:13:31,941 [7] INFO  Logger [(null)] - Sending Response Id:1405, Current:514229.
+2017-04-16 17:13:31,949 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 317811).
+2017-04-16 17:13:31,954 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 121393).
+2017-04-16 17:13:31,963 [5] INFO  Logger [(null)] - Sending Response Id:1415, Current:196418.
+2017-04-16 17:13:31,963 [6] INFO  Logger [(null)] - Processing CalculateNext(1421, 317811).
+2017-04-16 17:13:31,966 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:514229.
+2017-04-16 17:13:31,965 [10] INFO  Logger [(null)] - Sending Response Id:1403, Current:514229.
+2017-04-16 17:13:31,970 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:196418.
+2017-04-16 17:13:31,979 [10] INFO  Logger [(null)] - Sending Response Id:1421, Current:514229.
+2017-04-16 17:13:31,982 [5] INFO  Logger [(null)] - Processing CalculateNext(1418, 121393).
+2017-04-16 17:13:31,990 [10] INFO  Logger [(null)] - Processing CalculateNext(1420, 317811).
+2017-04-16 17:13:31,992 [7] INFO  Logger [(null)] - Processing CalculateNext(1423, 317811).
+2017-04-16 17:13:31,992 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:196418.
+2017-04-16 17:13:31,998 [10] INFO  Logger [(null)] - Processing CalculateNext(1419, 317811).
+2017-04-16 17:13:32,008 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:514229.
+2017-04-16 17:13:32,009 [5] INFO  Logger [(null)] - Sending Response Id:1420, Current:514229.
+2017-04-16 17:13:32,012 [10] INFO  Logger [(null)] - Processing CalculateNext(1401, 832040).
+2017-04-16 17:13:32,012 [6] INFO  Logger [(null)] - Processing CalculateNext(1400, 121393).
+2017-04-16 17:13:32,016 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:514229.
+2017-04-16 17:13:32,021 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 832040).
+2017-04-16 17:13:32,023 [7] INFO  Logger [(null)] - Sending Response Id:1401, Current:1346269.
+2017-04-16 17:13:32,023 [10] INFO  Logger [(null)] - Sending Response Id:1400, Current:196418.
+2017-04-16 17:13:32,027 [5] INFO  Logger [(null)] - Processing CalculateNext(1399, 121393).
+2017-04-16 17:13:32,035 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 317811).
+2017-04-16 17:13:32,037 [5] INFO  Logger [(null)] - Sending Response Id:1396, Current:1346269.
+2017-04-16 17:13:32,039 [6] INFO  Logger [(null)] - Processing CalculateNext(1407, 832040).
+2017-04-16 17:13:32,041 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:196418.
+2017-04-16 17:13:32,043 [6] INFO  Logger [(null)] - Processing CalculateNext(1394, 832040).
+2017-04-16 17:13:32,048 [7] INFO  Logger [(null)] - Sending Response Id:1414, Current:514229.
+2017-04-16 17:13:32,054 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:1346269.
+2017-04-16 17:13:32,055 [7] INFO  Logger [(null)] - Sending Response Id:1394, Current:1346269.
+2017-04-16 17:13:32,057 [10] INFO  Logger [(null)] - Processing CalculateNext(1411, 832040).
+2017-04-16 17:13:32,066 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 832040).
+2017-04-16 17:13:32,069 [6] INFO  Logger [(null)] - Processing CalculateNext(1402, 832040).
+2017-04-16 17:13:32,072 [5] INFO  Logger [(null)] - Processing CalculateNext(1417, 317811).
+2017-04-16 17:13:32,076 [5] INFO  Logger [(null)] - Sending Response Id:1411, Current:1346269.
+2017-04-16 17:13:32,077 [10] INFO  Logger [(null)] - Processing CalculateNext(1408, 317811).
+2017-04-16 17:13:32,079 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:1346269.
+2017-04-16 17:13:32,082 [5] INFO  Logger [(null)] - Sending Response Id:1417, Current:514229.
+2017-04-16 17:13:32,083 [6] INFO  Logger [(null)] - Sending Response Id:1402, Current:1346269.
+2017-04-16 17:13:32,083 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:514229.
+2017-04-16 17:13:32,086 [10] INFO  Logger [(null)] - Processing CalculateNext(1397, 317811).
+2017-04-16 17:13:32,086 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 317811).
+2017-04-16 17:13:32,093 [7] INFO  Logger [(null)] - Processing CalculateNext(1395, 832040).
+2017-04-16 17:13:32,096 [10] INFO  Logger [(null)] - Processing CalculateNext(1410, 832040).
+2017-04-16 17:13:32,097 [6] INFO  Logger [(null)] - Sending Response Id:1422, Current:514229.
+2017-04-16 17:13:32,099 [7] INFO  Logger [(null)] - Sending Response Id:1397, Current:514229.
+2017-04-16 17:13:32,101 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:1346269.
+2017-04-16 17:13:32,103 [6] INFO  Logger [(null)] - Sending Response Id:1410, Current:1346269.
+2017-04-16 17:13:32,106 [10] INFO  Logger [(null)] - Processing CalculateNext(1404, 832040).
+2017-04-16 17:13:32,111 [5] INFO  Logger [(null)] - Processing CalculateNext(1412, 832040).
+2017-04-16 17:13:32,113 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 317811).
+2017-04-16 17:13:32,113 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 317811).
+2017-04-16 17:13:32,114 [5] INFO  Logger [(null)] - Sending Response Id:1404, Current:1346269.
+2017-04-16 17:13:32,117 [5] INFO  Logger [(null)] - Sending Response Id:1412, Current:1346269.
+2017-04-16 17:13:32,118 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:514229.
+2017-04-16 17:13:32,125 [10] INFO  Logger [(null)] - Processing CalculateNext(1415, 317811).
+2017-04-16 17:13:32,128 [5] INFO  Logger [(null)] - Sending Response Id:1409, Current:514229.
+2017-04-16 17:13:32,131 [6] INFO  Logger [(null)] - Processing CalculateNext(1403, 832040).
+2017-04-16 17:13:32,131 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 317811).
+2017-04-16 17:13:32,133 [10] INFO  Logger [(null)] - Sending Response Id:1415, Current:514229.
+2017-04-16 17:13:32,137 [5] INFO  Logger [(null)] - Processing CalculateNext(1421, 832040).
+2017-04-16 17:13:32,139 [7] INFO  Logger [(null)] - Processing CalculateNext(1418, 317811).
+2017-04-16 17:13:32,141 [5] INFO  Logger [(null)] - Sending Response Id:1403, Current:1346269.
+2017-04-16 17:13:32,143 [10] INFO  Logger [(null)] - Sending Response Id:1398, Current:514229.
+2017-04-16 17:13:32,144 [5] INFO  Logger [(null)] - Sending Response Id:1421, Current:1346269.
+2017-04-16 17:13:32,143 [6] INFO  Logger [(null)] - Processing CalculateNext(1405, 832040).
+2017-04-16 17:13:32,146 [10] INFO  Logger [(null)] - Sending Response Id:1418, Current:514229.
+2017-04-16 17:13:32,150 [7] INFO  Logger [(null)] - Processing CalculateNext(1423, 832040).
+2017-04-16 17:13:32,157 [7] INFO  Logger [(null)] - Processing CalculateNext(1420, 832040).
+2017-04-16 17:13:32,160 [10] INFO  Logger [(null)] - Sending Response Id:1423, Current:1346269.
+2017-04-16 17:13:32,160 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:1346269.
+2017-04-16 17:13:32,164 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 832040).
+2017-04-16 17:13:32,166 [10] INFO  Logger [(null)] - Sending Response Id:1420, Current:1346269.
+2017-04-16 17:13:32,166 [6] INFO  Logger [(null)] - Processing CalculateNext(1419, 832040).
+2017-04-16 17:13:32,169 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 2178309).
+2017-04-16 17:13:32,172 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:1346269.
+2017-04-16 17:13:32,174 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:1346269.
+2017-04-16 17:13:32,174 [10] INFO  Logger [(null)] - Sending Response Id:1401, Current:3524578.
+2017-04-16 17:13:32,178 [6] INFO  Logger [(null)] - Processing CalculateNext(1400, 317811).
+2017-04-16 17:13:32,178 [10] INFO  Logger [(null)] - Processing CalculateNext(1396, 2178309).
+2017-04-16 17:13:32,184 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 317811).
+2017-04-16 17:13:32,187 [6] INFO  Logger [(null)] - Sending Response Id:1400, Current:514229.
+2017-04-16 17:13:32,189 [6] INFO  Logger [(null)] - Sending Response Id:1396, Current:3524578.
+2017-04-16 17:13:32,190 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 832040).
+2017-04-16 17:13:32,192 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:514229.
+2017-04-16 17:13:32,195 [10] INFO  Logger [(null)] - Processing CalculateNext(1394, 2178309).
+2017-04-16 17:13:32,196 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 2178309).
+2017-04-16 17:13:32,197 [5] INFO  Logger [(null)] - Sending Response Id:1414, Current:1346269.
+2017-04-16 17:13:32,202 [7] INFO  Logger [(null)] - Processing CalculateNext(1411, 2178309).
+2017-04-16 17:13:32,202 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 2178309).
+2017-04-16 17:13:32,208 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 832040).
+2017-04-16 17:13:32,215 [5] INFO  Logger [(null)] - Sending Response Id:1394, Current:3524578.
+2017-04-16 17:13:32,215 [7] INFO  Logger [(null)] - Sending Response Id:1407, Current:3524578.
+2017-04-16 17:13:32,219 [10] INFO  Logger [(null)] - Processing CalculateNext(1402, 2178309).
+2017-04-16 17:13:32,219 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:3524578.
+2017-04-16 17:13:32,222 [7] INFO  Logger [(null)] - Sending Response Id:1411, Current:3524578.
+2017-04-16 17:13:32,222 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:1346269.
+2017-04-16 17:13:32,229 [5] INFO  Logger [(null)] - Processing CalculateNext(1408, 832040).
+2017-04-16 17:13:32,239 [6] INFO  Logger [(null)] - Processing CalculateNext(1395, 2178309).
+2017-04-16 17:13:32,241 [10] INFO  Logger [(null)] - Processing CalculateNext(1397, 832040).
+2017-04-16 17:13:32,242 [5] INFO  Logger [(null)] - Sending Response Id:1402, Current:3524578.
+2017-04-16 17:13:32,245 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 832040).
+2017-04-16 17:13:32,246 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:1346269.
+2017-04-16 17:13:32,253 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:3524578.
+2017-04-16 17:13:32,254 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:1346269.
+2017-04-16 17:13:32,255 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 2178309).
+2017-04-16 17:13:32,261 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 2178309).
+2017-04-16 17:13:32,262 [10] INFO  Logger [(null)] - Sending Response Id:1422, Current:1346269.
+2017-04-16 17:13:32,262 [6] INFO  Logger [(null)] - Sending Response Id:1410, Current:3524578.
+2017-04-16 17:13:32,271 [7] INFO  Logger [(null)] - Processing CalculateNext(1413, 832040).
+2017-04-16 17:13:32,271 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 2178309).
+2017-04-16 17:13:32,277 [7] INFO  Logger [(null)] - Processing CalculateNext(1415, 832040).
+2017-04-16 17:13:32,281 [7] INFO  Logger [(null)] - Sending Response Id:1413, Current:1346269.
+2017-04-16 17:13:32,282 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:3524578.
+2017-04-16 17:13:32,283 [6] INFO  Logger [(null)] - Sending Response Id:1404, Current:3524578.
+2017-04-16 17:13:32,283 [5] INFO  Logger [(null)] - Processing CalculateNext(1409, 832040).
+2017-04-16 17:13:32,287 [7] INFO  Logger [(null)] - Sending Response Id:1415, Current:1346269.
+2017-04-16 17:13:32,290 [10] INFO  Logger [(null)] - Processing CalculateNext(1398, 832040).
+2017-04-16 17:13:32,291 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:1346269.
+2017-04-16 17:13:32,293 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 832040).
+2017-04-16 17:13:32,296 [5] INFO  Logger [(null)] - Processing CalculateNext(1403, 2178309).
+2017-04-16 17:13:32,299 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:1346269.
+2017-04-16 17:13:32,301 [6] INFO  Logger [(null)] - Sending Response Id:1418, Current:1346269.
+2017-04-16 17:13:32,303 [10] INFO  Logger [(null)] - Processing CalculateNext(1421, 2178309).
+2017-04-16 17:13:32,304 [7] INFO  Logger [(null)] - Processing CalculateNext(1405, 2178309).
+2017-04-16 17:13:32,307 [6] INFO  Logger [(null)] - Sending Response Id:1403, Current:3524578.
+2017-04-16 17:13:32,309 [7] INFO  Logger [(null)] - Processing CalculateNext(1420, 2178309).
+2017-04-16 17:13:32,310 [10] INFO  Logger [(null)] - Sending Response Id:1421, Current:3524578.
+2017-04-16 17:13:32,315 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:3524578.
+2017-04-16 17:13:32,319 [6] INFO  Logger [(null)] - Processing CalculateNext(1423, 2178309).
+2017-04-16 17:13:32,320 [5] INFO  Logger [(null)] - Processing CalculateNext(1416, 2178309).
+2017-04-16 17:13:32,320 [10] INFO  Logger [(null)] - Sending Response Id:1420, Current:3524578.
+2017-04-16 17:13:32,326 [5] INFO  Logger [(null)] - Processing CalculateNext(1419, 2178309).
+2017-04-16 17:13:32,334 [5] INFO  Logger [(null)] - Sending Response Id:1419, Current:3524578.
+2017-04-16 17:13:32,336 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:3524578.
+2017-04-16 17:13:32,336 [6] INFO  Logger [(null)] - Sending Response Id:1423, Current:3524578.
+2017-04-16 17:13:32,336 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 832040).
+2017-04-16 17:13:32,339 [10] INFO  Logger [(null)] - Processing CalculateNext(1401, 5702887).
+2017-04-16 17:13:32,340 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 5702887).
+2017-04-16 17:13:32,348 [10] INFO  Logger [(null)] - Sending Response Id:1400, Current:1346269.
+2017-04-16 17:13:32,350 [10] INFO  Logger [(null)] - Sending Response Id:1401, Current:9227465.
+2017-04-16 17:13:32,351 [5] INFO  Logger [(null)] - Sending Response Id:1396, Current:9227465.
+2017-04-16 17:13:32,354 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 2178309).
+2017-04-16 17:13:32,358 [6] INFO  Logger [(null)] - Processing CalculateNext(1406, 5702887).
+2017-04-16 17:13:32,358 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 832040).
+2017-04-16 17:13:32,362 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:3524578.
+2017-04-16 17:13:32,364 [5] INFO  Logger [(null)] - Processing CalculateNext(1394, 5702887).
+2017-04-16 17:13:32,368 [10] INFO  Logger [(null)] - Processing CalculateNext(1411, 5702887).
+2017-04-16 17:13:32,369 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:9227465.
+2017-04-16 17:13:32,370 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 2178309).
+2017-04-16 17:13:32,372 [5] INFO  Logger [(null)] - Processing CalculateNext(1407, 5702887).
+2017-04-16 17:13:32,374 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:1346269.
+2017-04-16 17:13:32,378 [5] INFO  Logger [(null)] - Sending Response Id:1394, Current:9227465.
+2017-04-16 17:13:32,380 [5] INFO  Logger [(null)] - Sending Response Id:1411, Current:9227465.
+2017-04-16 17:13:32,381 [7] INFO  Logger [(null)] - Sending Response Id:1417, Current:3524578.
+2017-04-16 17:13:32,381 [6] INFO  Logger [(null)] - Processing CalculateNext(1402, 5702887).
+2017-04-16 17:13:32,382 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:9227465.
+2017-04-16 17:13:32,384 [10] INFO  Logger [(null)] - Processing CalculateNext(1397, 2178309).
+2017-04-16 17:13:32,387 [7] INFO  Logger [(null)] - Processing CalculateNext(1408, 2178309).
+2017-04-16 17:13:32,390 [5] INFO  Logger [(null)] - Processing CalculateNext(1395, 5702887).
+2017-04-16 17:13:32,395 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:3524578.
+2017-04-16 17:13:32,396 [10] INFO  Logger [(null)] - Sending Response Id:1408, Current:3524578.
+2017-04-16 17:13:32,397 [10] INFO  Logger [(null)] - Sending Response Id:1402, Current:9227465.
+2017-04-16 17:13:32,398 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:9227465.
+2017-04-16 17:13:32,398 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 2178309).
+2017-04-16 17:13:32,401 [10] INFO  Logger [(null)] - Processing CalculateNext(1410, 5702887).
+2017-04-16 17:13:32,409 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 5702887).
+2017-04-16 17:13:32,409 [10] INFO  Logger [(null)] - Sending Response Id:1410, Current:9227465.
+2017-04-16 17:13:32,410 [5] INFO  Logger [(null)] - Sending Response Id:1422, Current:3524578.
+2017-04-16 17:13:32,414 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 2178309).
+2017-04-16 17:13:32,414 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 5702887).
+2017-04-16 17:13:32,417 [5] INFO  Logger [(null)] - Sending Response Id:1412, Current:9227465.
+2017-04-16 17:13:32,417 [10] INFO  Logger [(null)] - Processing CalculateNext(1409, 2178309).
+2017-04-16 17:13:32,422 [5] INFO  Logger [(null)] - Sending Response Id:1413, Current:3524578.
+2017-04-16 17:13:32,423 [7] INFO  Logger [(null)] - Processing CalculateNext(1415, 2178309).
+2017-04-16 17:13:32,424 [5] INFO  Logger [(null)] - Sending Response Id:1404, Current:9227465.
+2017-04-16 17:13:32,425 [10] INFO  Logger [(null)] - Sending Response Id:1409, Current:3524578.
+2017-04-16 17:13:32,433 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 2178309).
+2017-04-16 17:13:32,434 [7] INFO  Logger [(null)] - Sending Response Id:1415, Current:3524578.
+2017-04-16 17:13:32,436 [10] INFO  Logger [(null)] - Processing CalculateNext(1418, 2178309).
+2017-04-16 17:13:32,439 [5] INFO  Logger [(null)] - Processing CalculateNext(1403, 5702887).
+2017-04-16 17:13:32,444 [7] INFO  Logger [(null)] - Processing CalculateNext(1405, 5702887).
+2017-04-16 17:13:32,448 [5] INFO  Logger [(null)] - Processing CalculateNext(1421, 5702887).
+2017-04-16 17:13:32,448 [7] INFO  Logger [(null)] - Processing CalculateNext(1420, 5702887).
+2017-04-16 17:13:32,452 [6] INFO  Logger [(null)] - Sending Response Id:1398, Current:3524578.
+2017-04-16 17:13:32,454 [6] INFO  Logger [(null)] - Sending Response Id:1418, Current:3524578.
+2017-04-16 17:13:32,456 [6] INFO  Logger [(null)] - Sending Response Id:1403, Current:9227465.
+2017-04-16 17:13:32,457 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:9227465.
+2017-04-16 17:13:32,457 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 5702887).
+2017-04-16 17:13:32,458 [10] INFO  Logger [(null)] - Sending Response Id:1421, Current:9227465.
+2017-04-16 17:13:32,461 [6] INFO  Logger [(null)] - Sending Response Id:1420, Current:9227465.
+2017-04-16 17:13:32,468 [10] INFO  Logger [(null)] - Processing CalculateNext(1423, 5702887).
+2017-04-16 17:13:32,469 [6] INFO  Logger [(null)] - Sending Response Id:1419, Current:9227465.
+2017-04-16 17:13:32,469 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 5702887).
+2017-04-16 17:13:32,478 [6] INFO  Logger [(null)] - Sending Response Id:1423, Current:9227465.
+2017-04-16 17:13:32,478 [10] INFO  Logger [(null)] - Processing CalculateNext(1400, 2178309).
+2017-04-16 17:13:32,481 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:9227465.
+2017-04-16 17:13:32,488 [5] INFO  Logger [(null)] - Processing CalculateNext(1396, 14930352).
+2017-04-16 17:13:32,488 [6] INFO  Logger [(null)] - Processing CalculateNext(1401, 14930352).
+2017-04-16 17:13:32,490 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:3524578.
+2017-04-16 17:13:32,493 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 5702887).
+2017-04-16 17:13:32,495 [5] INFO  Logger [(null)] - Sending Response Id:1396, Current:24157817.
+2017-04-16 17:13:32,499 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 2178309).
+2017-04-16 17:13:32,499 [10] INFO  Logger [(null)] - Processing CalculateNext(1417, 5702887).
+2017-04-16 17:13:32,504 [5] INFO  Logger [(null)] - Sending Response Id:1414, Current:9227465.
+2017-04-16 17:13:32,507 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:3524578.
+2017-04-16 17:13:32,508 [5] INFO  Logger [(null)] - Sending Response Id:1417, Current:9227465.
+2017-04-16 17:13:32,509 [7] INFO  Logger [(null)] - Sending Response Id:1401, Current:24157817.
+2017-04-16 17:13:32,511 [10] INFO  Logger [(null)] - Processing CalculateNext(1394, 14930352).
+2017-04-16 17:13:32,512 [7] INFO  Logger [(null)] - Processing CalculateNext(1406, 14930352).
+2017-04-16 17:13:32,512 [5] INFO  Logger [(null)] - Processing CalculateNext(1407, 14930352).
+2017-04-16 17:13:32,520 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 14930352).
+2017-04-16 17:13:32,524 [7] INFO  Logger [(null)] - Sending Response Id:1394, Current:24157817.
+2017-04-16 17:13:32,525 [6] INFO  Logger [(null)] - Processing CalculateNext(1408, 5702887).
+2017-04-16 17:13:32,525 [10] INFO  Logger [(null)] - Sending Response Id:1407, Current:24157817.
+2017-04-16 17:13:32,525 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:24157817.
+2017-04-16 17:13:32,529 [10] INFO  Logger [(null)] - Sending Response Id:1411, Current:24157817.
+2017-04-16 17:13:32,536 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:9227465.
+2017-04-16 17:13:32,537 [10] INFO  Logger [(null)] - Processing CalculateNext(1402, 14930352).
+2017-04-16 17:13:32,540 [6] INFO  Logger [(null)] - Processing CalculateNext(1397, 5702887).
+2017-04-16 17:13:32,543 [10] INFO  Logger [(null)] - Processing CalculateNext(1395, 14930352).
+2017-04-16 17:13:32,548 [6] INFO  Logger [(null)] - Processing CalculateNext(1410, 14930352).
+2017-04-16 17:13:32,551 [10] INFO  Logger [(null)] - Sending Response Id:1402, Current:24157817.
+2017-04-16 17:13:32,552 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:9227465.
+2017-04-16 17:13:32,553 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:24157817.
+2017-04-16 17:13:32,553 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 5702887).
+2017-04-16 17:13:32,554 [10] INFO  Logger [(null)] - Sending Response Id:1410, Current:24157817.
+2017-04-16 17:13:32,562 [5] INFO  Logger [(null)] - Processing CalculateNext(1412, 14930352).
+2017-04-16 17:13:32,566 [10] INFO  Logger [(null)] - Sending Response Id:1422, Current:9227465.
+2017-04-16 17:13:32,568 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 5702887).
+2017-04-16 17:13:32,568 [10] INFO  Logger [(null)] - Sending Response Id:1412, Current:24157817.
+2017-04-16 17:13:32,570 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 14930352).
+2017-04-16 17:13:32,573 [6] INFO  Logger [(null)] - Processing CalculateNext(1415, 5702887).
+2017-04-16 17:13:32,574 [5] INFO  Logger [(null)] - Processing CalculateNext(1409, 5702887).
+2017-04-16 17:13:32,579 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:9227465.
+2017-04-16 17:13:32,580 [7] INFO  Logger [(null)] - Sending Response Id:1415, Current:9227465.
+2017-04-16 17:13:32,580 [10] INFO  Logger [(null)] - Sending Response Id:1404, Current:24157817.
+2017-04-16 17:13:32,583 [6] INFO  Logger [(null)] - Processing CalculateNext(1403, 14930352).
+2017-04-16 17:13:32,586 [5] INFO  Logger [(null)] - Sending Response Id:1409, Current:9227465.
+2017-04-16 17:13:32,588 [7] INFO  Logger [(null)] - Processing CalculateNext(1418, 5702887).
+2017-04-16 17:13:32,592 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 5702887).
+2017-04-16 17:13:32,595 [10] INFO  Logger [(null)] - Sending Response Id:1403, Current:24157817.
+2017-04-16 17:13:32,598 [6] INFO  Logger [(null)] - Processing CalculateNext(1405, 14930352).
+2017-04-16 17:13:32,598 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:9227465.
+2017-04-16 17:13:32,600 [5] INFO  Logger [(null)] - Sending Response Id:1398, Current:9227465.
+2017-04-16 17:13:32,604 [7] INFO  Logger [(null)] - Processing CalculateNext(1421, 14930352).
+2017-04-16 17:13:32,606 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:24157817.
+2017-04-16 17:13:32,606 [10] INFO  Logger [(null)] - Processing CalculateNext(1420, 14930352).
+2017-04-16 17:13:32,612 [5] INFO  Logger [(null)] - Processing CalculateNext(1419, 14930352).
+2017-04-16 17:13:32,612 [6] INFO  Logger [(null)] - Sending Response Id:1421, Current:24157817.
+2017-04-16 17:13:32,614 [10] INFO  Logger [(null)] - Sending Response Id:1420, Current:24157817.
+2017-04-16 17:13:32,622 [6] INFO  Logger [(null)] - Processing CalculateNext(1423, 14930352).
+2017-04-16 17:13:32,623 [5] INFO  Logger [(null)] - Sending Response Id:1419, Current:24157817.
+2017-04-16 17:13:32,625 [7] INFO  Logger [(null)] - Processing CalculateNext(1400, 5702887).
+2017-04-16 17:13:32,627 [5] INFO  Logger [(null)] - Sending Response Id:1423, Current:24157817.
+2017-04-16 17:13:32,627 [10] INFO  Logger [(null)] - Processing CalculateNext(1396, 39088169).
+2017-04-16 17:13:32,631 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 14930352).
+2017-04-16 17:13:32,632 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 14930352).
+2017-04-16 17:13:32,634 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:9227465.
+2017-04-16 17:13:32,638 [10] INFO  Logger [(null)] - Processing CalculateNext(1399, 5702887).
+2017-04-16 17:13:32,641 [5] INFO  Logger [(null)] - Sending Response Id:1396, Current:63245986.
+2017-04-16 17:13:32,644 [5] INFO  Logger [(null)] - Sending Response Id:1416, Current:24157817.
+2017-04-16 17:13:32,645 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:24157817.
+2017-04-16 17:13:32,647 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:9227465.
+2017-04-16 17:13:32,649 [10] INFO  Logger [(null)] - Processing CalculateNext(1401, 39088169).
+2017-04-16 17:13:32,651 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 14930352).
+2017-04-16 17:13:32,658 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:63245986.
+2017-04-16 17:13:32,658 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:24157817.
+2017-04-16 17:13:32,659 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 39088169).
+2017-04-16 17:13:32,666 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 39088169).
+2017-04-16 17:13:32,666 [5] INFO  Logger [(null)] - Processing CalculateNext(1407, 39088169).
+2017-04-16 17:13:32,666 [10] INFO  Logger [(null)] - Processing CalculateNext(1408, 14930352).
+2017-04-16 17:13:32,671 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 39088169).
+2017-04-16 17:13:32,677 [5] INFO  Logger [(null)] - Processing CalculateNext(1402, 39088169).
+2017-04-16 17:13:32,677 [10] INFO  Logger [(null)] - Sending Response Id:1406, Current:63245986.
+2017-04-16 17:13:32,678 [6] INFO  Logger [(null)] - Processing CalculateNext(1395, 39088169).
+2017-04-16 17:13:32,678 [7] INFO  Logger [(null)] - Sending Response Id:1394, Current:63245986.
+2017-04-16 17:13:32,679 [10] INFO  Logger [(null)] - Sending Response Id:1407, Current:63245986.
+2017-04-16 17:13:32,680 [7] INFO  Logger [(null)] - Sending Response Id:1408, Current:24157817.
+2017-04-16 17:13:32,681 [10] INFO  Logger [(null)] - Sending Response Id:1411, Current:63245986.
+2017-04-16 17:13:32,682 [5] INFO  Logger [(null)] - Processing CalculateNext(1397, 14930352).
+2017-04-16 17:13:32,692 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:63245986.
+2017-04-16 17:13:32,696 [6] INFO  Logger [(null)] - Sending Response Id:1395, Current:63245986.
+2017-04-16 17:13:32,699 [7] INFO  Logger [(null)] - Sending Response Id:1397, Current:24157817.
+2017-04-16 17:13:32,699 [10] INFO  Logger [(null)] - Processing CalculateNext(1412, 39088169).
+2017-04-16 17:13:32,711 [7] INFO  Logger [(null)] - Processing CalculateNext(1422, 14930352).
+2017-04-16 17:13:32,711 [5] INFO  Logger [(null)] - Processing CalculateNext(1410, 39088169).
+2017-04-16 17:13:32,713 [10] INFO  Logger [(null)] - Sending Response Id:1412, Current:63245986.
+2017-04-16 17:13:32,716 [7] INFO  Logger [(null)] - Processing CalculateNext(1413, 14930352).
+2017-04-16 17:13:32,718 [7] INFO  Logger [(null)] - Sending Response Id:1422, Current:24157817.
+2017-04-16 17:13:32,719 [6] INFO  Logger [(null)] - Processing CalculateNext(1404, 39088169).
+2017-04-16 17:13:32,722 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:63245986.
+2017-04-16 17:13:32,724 [7] INFO  Logger [(null)] - Sending Response Id:1413, Current:24157817.
+2017-04-16 17:13:32,725 [10] INFO  Logger [(null)] - Sending Response Id:1404, Current:63245986.
+2017-04-16 17:13:32,725 [5] INFO  Logger [(null)] - Processing CalculateNext(1415, 14930352).
+2017-04-16 17:13:32,729 [6] INFO  Logger [(null)] - Processing CalculateNext(1409, 14930352).
+2017-04-16 17:13:32,733 [10] INFO  Logger [(null)] - Processing CalculateNext(1418, 14930352).
+2017-04-16 17:13:32,737 [6] INFO  Logger [(null)] - Sending Response Id:1415, Current:24157817.
+2017-04-16 17:13:32,737 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:24157817.
+2017-04-16 17:13:32,738 [6] INFO  Logger [(null)] - Sending Response Id:1409, Current:24157817.
+2017-04-16 17:13:32,741 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 14930352).
+2017-04-16 17:13:32,741 [5] INFO  Logger [(null)] - Processing CalculateNext(1405, 39088169).
+2017-04-16 17:13:32,741 [10] INFO  Logger [(null)] - Processing CalculateNext(1403, 39088169).
+2017-04-16 17:13:32,748 [7] INFO  Logger [(null)] - Processing CalculateNext(1421, 39088169).
+2017-04-16 17:13:32,752 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:24157817.
+2017-04-16 17:13:32,753 [6] INFO  Logger [(null)] - Sending Response Id:1403, Current:63245986.
+2017-04-16 17:13:32,753 [7] INFO  Logger [(null)] - Sending Response Id:1421, Current:63245986.
+2017-04-16 17:13:32,755 [5] INFO  Logger [(null)] - Processing CalculateNext(1420, 39088169).
+2017-04-16 17:13:32,759 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:63245986.
+2017-04-16 17:13:32,759 [10] INFO  Logger [(null)] - Processing CalculateNext(1423, 39088169).
+2017-04-16 17:13:32,761 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 39088169).
+2017-04-16 17:13:32,765 [10] INFO  Logger [(null)] - Processing CalculateNext(1400, 14930352).
+2017-04-16 17:13:32,770 [6] INFO  Logger [(null)] - Sending Response Id:1420, Current:63245986.
+2017-04-16 17:13:32,772 [6] INFO  Logger [(null)] - Sending Response Id:1419, Current:63245986.
+2017-04-16 17:13:32,772 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:63245986.
+2017-04-16 17:13:32,773 [7] INFO  Logger [(null)] - Sending Response Id:1400, Current:24157817.
+2017-04-16 17:13:32,775 [10] INFO  Logger [(null)] - Processing CalculateNext(1396, 102334155).
+2017-04-16 17:13:32,782 [5] INFO  Logger [(null)] - Processing CalculateNext(1414, 39088169).
+2017-04-16 17:13:32,784 [10] INFO  Logger [(null)] - Sending Response Id:1396, Current:165580141.
+2017-04-16 17:13:32,786 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 39088169).
+2017-04-16 17:13:32,786 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 14930352).
+2017-04-16 17:13:32,789 [10] INFO  Logger [(null)] - Sending Response Id:1414, Current:63245986.
+2017-04-16 17:13:32,790 [5] INFO  Logger [(null)] - Processing CalculateNext(1401, 102334155).
+2017-04-16 17:13:32,791 [7] INFO  Logger [(null)] - Processing CalculateNext(1417, 39088169).
+2017-04-16 17:13:32,795 [6] INFO  Logger [(null)] - Processing CalculateNext(1407, 102334155).
+2017-04-16 17:13:32,797 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:24157817.
+2017-04-16 17:13:32,799 [10] INFO  Logger [(null)] - Sending Response Id:1401, Current:165580141.
+2017-04-16 17:13:32,803 [10] INFO  Logger [(null)] - Sending Response Id:1417, Current:63245986.
+2017-04-16 17:13:32,803 [7] INFO  Logger [(null)] - Sending Response Id:1416, Current:63245986.
+2017-04-16 17:13:32,808 [10] INFO  Logger [(null)] - Sending Response Id:1407, Current:165580141.
+2017-04-16 17:13:32,812 [5] INFO  Logger [(null)] - Processing CalculateNext(1408, 39088169).
+2017-04-16 17:13:32,815 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 102334155).
+2017-04-16 17:13:32,817 [10] INFO  Logger [(null)] - Processing CalculateNext(1411, 102334155).
+2017-04-16 17:13:32,823 [10] INFO  Logger [(null)] - Processing CalculateNext(1402, 102334155).
+2017-04-16 17:13:32,824 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:63245986.
+2017-04-16 17:13:32,824 [7] INFO  Logger [(null)] - Processing CalculateNext(1406, 102334155).
+2017-04-16 17:13:32,825 [5] INFO  Logger [(null)] - Sending Response Id:1394, Current:165580141.
+2017-04-16 17:13:32,834 [5] INFO  Logger [(null)] - Sending Response Id:1402, Current:165580141.
+2017-04-16 17:13:32,835 [6] INFO  Logger [(null)] - Sending Response Id:1411, Current:165580141.
+2017-04-16 17:13:32,834 [10] INFO  Logger [(null)] - Processing CalculateNext(1395, 102334155).
+2017-04-16 17:13:32,838 [5] INFO  Logger [(null)] - Processing CalculateNext(1397, 39088169).
+2017-04-16 17:13:32,839 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:165580141.
+2017-04-16 17:13:32,841 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 102334155).
+2017-04-16 17:13:32,845 [10] INFO  Logger [(null)] - Processing CalculateNext(1422, 39088169).
+2017-04-16 17:13:32,848 [5] INFO  Logger [(null)] - Sending Response Id:1395, Current:165580141.
+2017-04-16 17:13:32,851 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:63245986.
+2017-04-16 17:13:32,852 [7] INFO  Logger [(null)] - Sending Response Id:1412, Current:165580141.
+2017-04-16 17:13:32,855 [10] INFO  Logger [(null)] - Sending Response Id:1422, Current:63245986.
+2017-04-16 17:13:32,862 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 102334155).
+2017-04-16 17:13:32,865 [7] INFO  Logger [(null)] - Processing CalculateNext(1410, 102334155).
+2017-04-16 17:13:32,868 [10] INFO  Logger [(null)] - Processing CalculateNext(1418, 39088169).
+2017-04-16 17:13:32,868 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 39088169).
+2017-04-16 17:13:32,868 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 39088169).
+2017-04-16 17:13:32,874 [5] INFO  Logger [(null)] - Processing CalculateNext(1415, 39088169).
+2017-04-16 17:13:32,876 [6] INFO  Logger [(null)] - Processing CalculateNext(1398, 39088169).
+2017-04-16 17:13:32,882 [7] INFO  Logger [(null)] - Sending Response Id:1404, Current:165580141.
+2017-04-16 17:13:32,883 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:165580141.
+2017-04-16 17:13:32,883 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:63245986.
+2017-04-16 17:13:32,884 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:63245986.
+2017-04-16 17:13:32,885 [5] INFO  Logger [(null)] - Sending Response Id:1415, Current:63245986.
+2017-04-16 17:13:32,887 [7] INFO  Logger [(null)] - Sending Response Id:1413, Current:63245986.
+2017-04-16 17:13:32,887 [6] INFO  Logger [(null)] - Processing CalculateNext(1421, 102334155).
+2017-04-16 17:13:32,891 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:63245986.
+2017-04-16 17:13:32,898 [6] INFO  Logger [(null)] - Sending Response Id:1421, Current:165580141.
+2017-04-16 17:13:32,903 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 102334155).
+2017-04-16 17:13:32,907 [6] INFO  Logger [(null)] - Processing CalculateNext(1420, 102334155).
+2017-04-16 17:13:32,907 [10] INFO  Logger [(null)] - Processing CalculateNext(1405, 102334155).
+2017-04-16 17:13:32,915 [7] INFO  Logger [(null)] - Sending Response Id:1403, Current:165580141.
+2017-04-16 17:13:32,917 [7] INFO  Logger [(null)] - Sending Response Id:1405, Current:165580141.
+2017-04-16 17:13:32,919 [6] INFO  Logger [(null)] - Sending Response Id:1420, Current:165580141.
+2017-04-16 17:13:32,924 [7] INFO  Logger [(null)] - Processing CalculateNext(1423, 102334155).
+2017-04-16 17:13:32,925 [6] INFO  Logger [(null)] - Processing CalculateNext(1400, 39088169).
+2017-04-16 17:13:32,931 [10] INFO  Logger [(null)] - Processing CalculateNext(1419, 102334155).
+2017-04-16 17:13:32,936 [6] INFO  Logger [(null)] - Processing CalculateNext(1396, 267914296).
+2017-04-16 17:13:32,943 [10] INFO  Logger [(null)] - Sending Response Id:1423, Current:165580141.
+2017-04-16 17:13:32,944 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:165580141.
+2017-04-16 17:13:32,943 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:63245986.
+2017-04-16 17:13:32,945 [10] INFO  Logger [(null)] - Sending Response Id:1396, Current:433494437.
+2017-04-16 17:13:32,946 [6] INFO  Logger [(null)] - Processing CalculateNext(1414, 102334155).
+2017-04-16 17:13:32,955 [5] INFO  Logger [(null)] - Processing CalculateNext(1399, 39088169).
+2017-04-16 17:13:32,957 [10] INFO  Logger [(null)] - Processing CalculateNext(1417, 102334155).
+2017-04-16 17:13:32,959 [7] INFO  Logger [(null)] - Processing CalculateNext(1401, 267914296).
+2017-04-16 17:13:32,959 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:165580141.
+2017-04-16 17:13:32,963 [10] INFO  Logger [(null)] - Processing CalculateNext(1416, 102334155).
+2017-04-16 17:13:32,963 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:63245986.
+2017-04-16 17:13:32,963 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 267914296).
+2017-04-16 17:13:32,967 [5] INFO  Logger [(null)] - Sending Response Id:1417, Current:165580141.
+2017-04-16 17:13:32,968 [10] INFO  Logger [(null)] - Processing CalculateNext(1408, 102334155).
+2017-04-16 17:13:32,972 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:433494437.
+2017-04-16 17:13:32,975 [10] INFO  Logger [(null)] - Sending Response Id:1416, Current:165580141.
+2017-04-16 17:13:32,975 [6] INFO  Logger [(null)] - Sending Response Id:1407, Current:433494437.
+2017-04-16 17:13:32,975 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:165580141.
+2017-04-16 17:13:32,979 [7] INFO  Logger [(null)] - Processing CalculateNext(1394, 267914296).
+2017-04-16 17:13:32,979 [6] INFO  Logger [(null)] - Processing CalculateNext(1411, 267914296).
+2017-04-16 17:13:32,980 [10] INFO  Logger [(null)] - Processing CalculateNext(1402, 267914296).
+2017-04-16 17:13:32,989 [6] INFO  Logger [(null)] - Sending Response Id:1394, Current:433494437.
+2017-04-16 17:13:32,990 [7] INFO  Logger [(null)] - Sending Response Id:1402, Current:433494437.
+2017-04-16 17:13:32,990 [5] INFO  Logger [(null)] - Processing CalculateNext(1406, 267914296).
+2017-04-16 17:13:32,991 [6] INFO  Logger [(null)] - Sending Response Id:1411, Current:433494437.
+2017-04-16 17:13:32,993 [10] INFO  Logger [(null)] - Processing CalculateNext(1395, 267914296).
+2017-04-16 17:13:32,997 [5] INFO  Logger [(null)] - Sending Response Id:1406, Current:433494437.
+2017-04-16 17:13:33,002 [6] INFO  Logger [(null)] - Processing CalculateNext(1412, 267914296).
+2017-04-16 17:13:33,004 [10] INFO  Logger [(null)] - Sending Response Id:1395, Current:433494437.
+2017-04-16 17:13:33,007 [7] INFO  Logger [(null)] - Processing CalculateNext(1397, 102334155).
+2017-04-16 17:13:33,010 [5] INFO  Logger [(null)] - Processing CalculateNext(1422, 102334155).
+2017-04-16 17:13:33,011 [6] INFO  Logger [(null)] - Sending Response Id:1412, Current:433494437.
+2017-04-16 17:13:33,011 [10] INFO  Logger [(null)] - Processing CalculateNext(1418, 102334155).
+2017-04-16 17:13:33,011 [7] INFO  Logger [(null)] - Processing CalculateNext(1404, 267914296).
+2017-04-16 17:13:33,017 [5] INFO  Logger [(null)] - Sending Response Id:1397, Current:165580141.
+2017-04-16 17:13:33,019 [7] INFO  Logger [(null)] - Sending Response Id:1422, Current:165580141.
+2017-04-16 17:13:33,020 [6] INFO  Logger [(null)] - Sending Response Id:1404, Current:433494437.
+2017-04-16 17:13:33,020 [5] INFO  Logger [(null)] - Sending Response Id:1418, Current:165580141.
+2017-04-16 17:13:33,022 [10] INFO  Logger [(null)] - Processing CalculateNext(1409, 102334155).
+2017-04-16 17:13:33,023 [7] INFO  Logger [(null)] - Processing CalculateNext(1415, 102334155).
+2017-04-16 17:13:33,027 [5] INFO  Logger [(null)] - Processing CalculateNext(1421, 267914296).
+2017-04-16 17:13:33,028 [10] INFO  Logger [(null)] - Processing CalculateNext(1398, 102334155).
+2017-04-16 17:13:33,032 [6] INFO  Logger [(null)] - Processing CalculateNext(1410, 267914296).
+2017-04-16 17:13:33,038 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:165580141.
+2017-04-16 17:13:33,038 [6] INFO  Logger [(null)] - Sending Response Id:1415, Current:165580141.
+2017-04-16 17:13:33,039 [10] INFO  Logger [(null)] - Processing CalculateNext(1403, 267914296).
+2017-04-16 17:13:33,040 [5] INFO  Logger [(null)] - Processing CalculateNext(1413, 102334155).
+2017-04-16 17:13:33,043 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:165580141.
+2017-04-16 17:13:33,053 [7] INFO  Logger [(null)] - Sending Response Id:1410, Current:433494437.
+2017-04-16 17:13:33,056 [10] INFO  Logger [(null)] - Processing CalculateNext(1405, 267914296).
+2017-04-16 17:13:33,056 [7] INFO  Logger [(null)] - Sending Response Id:1403, Current:433494437.
+2017-04-16 17:13:33,063 [7] INFO  Logger [(null)] - Sending Response Id:1421, Current:433494437.
+2017-04-16 17:13:33,064 [10] INFO  Logger [(null)] - Sending Response Id:1405, Current:433494437.
+2017-04-16 17:13:33,068 [6] INFO  Logger [(null)] - Processing CalculateNext(1420, 267914296).
+2017-04-16 17:13:33,071 [7] INFO  Logger [(null)] - Processing CalculateNext(1419, 267914296).
+2017-04-16 17:13:33,073 [6] INFO  Logger [(null)] - Processing CalculateNext(1400, 102334155).
+2017-04-16 17:13:33,074 [5] INFO  Logger [(null)] - Processing CalculateNext(1396, 701408733).
+2017-04-16 17:13:33,074 [10] INFO  Logger [(null)] - Processing CalculateNext(1423, 267914296).
+2017-04-16 17:13:33,076 [7] INFO  Logger [(null)] - Sending Response Id:1413, Current:165580141.
+2017-04-16 17:13:33,082 [7] INFO  Logger [(null)] - Sending Response Id:1419, Current:433494437.
+2017-04-16 17:13:33,082 [6] INFO  Logger [(null)] - Processing CalculateNext(1414, 267914296).
+2017-04-16 17:13:33,083 [7] INFO  Logger [(null)] - Sending Response Id:1420, Current:433494437.
+2017-04-16 17:13:33,084 [10] INFO  Logger [(null)] - Sending Response Id:1400, Current:165580141.
+2017-04-16 17:13:33,082 [5] INFO  Logger [(null)] - Processing CalculateNext(1417, 267914296).
+2017-04-16 17:13:33,086 [10] INFO  Logger [(null)] - Sending Response Id:1396, Current:1134903170.
+2017-04-16 17:13:33,086 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:433494437.
+2017-04-16 17:13:33,090 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 102334155).
+2017-04-16 17:13:33,090 [10] INFO  Logger [(null)] - Sending Response Id:1414, Current:433494437.
+2017-04-16 17:13:33,091 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 267914296).
+2017-04-16 17:13:33,094 [6] INFO  Logger [(null)] - Sending Response Id:1417, Current:433494437.
+2017-04-16 17:13:33,098 [5] INFO  Logger [(null)] - Processing CalculateNext(1401, 701408733).
+2017-04-16 17:13:33,103 [6] INFO  Logger [(null)] - Sending Response Id:1399, Current:165580141.
+2017-04-16 17:13:33,103 [7] INFO  Logger [(null)] - Processing CalculateNext(1408, 267914296).
+2017-04-16 17:13:33,104 [5] INFO  Logger [(null)] - Sending Response Id:1401, Current:1134903170.
+2017-04-16 17:13:33,104 [10] INFO  Logger [(null)] - Sending Response Id:1416, Current:433494437.
+2017-04-16 17:13:33,109 [5] INFO  Logger [(null)] - Processing CalculateNext(1407, 701408733).
+2017-04-16 17:13:33,109 [7] INFO  Logger [(null)] - Processing CalculateNext(1402, 701408733).
+2017-04-16 17:13:33,114 [10] INFO  Logger [(null)] - Sending Response Id:1408, Current:433494437.
+2017-04-16 17:13:33,117 [6] INFO  Logger [(null)] - Processing CalculateNext(1394, 701408733).
+2017-04-16 17:13:33,119 [7] INFO  Logger [(null)] - Processing CalculateNext(1411, 701408733).
+2017-04-16 17:13:33,119 [5] INFO  Logger [(null)] - Sending Response Id:1407, Current:1134903170.
+2017-04-16 17:13:33,120 [10] INFO  Logger [(null)] - Sending Response Id:1402, Current:1134903170.
+2017-04-16 17:13:33,125 [5] INFO  Logger [(null)] - Sending Response Id:1394, Current:1134903170.
+2017-04-16 17:13:33,125 [10] INFO  Logger [(null)] - Sending Response Id:1411, Current:1134903170.
+2017-04-16 17:13:33,126 [6] INFO  Logger [(null)] - Processing CalculateNext(1395, 701408733).
+2017-04-16 17:13:33,129 [6] INFO  Logger [(null)] - Processing CalculateNext(1397, 267914296).
+2017-04-16 17:13:33,129 [5] INFO  Logger [(null)] - Processing CalculateNext(1412, 701408733).
+2017-04-16 17:13:33,130 [10] INFO  Logger [(null)] - Processing CalculateNext(1422, 267914296).
+2017-04-16 17:13:33,129 [7] INFO  Logger [(null)] - Processing CalculateNext(1406, 701408733).
+2017-04-16 17:13:33,144 [10] INFO  Logger [(null)] - Processing CalculateNext(1404, 701408733).
+2017-04-16 17:13:33,150 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 267914296).
+2017-04-16 17:13:33,153 [7] INFO  Logger [(null)] - Sending Response Id:1395, Current:1134903170.
+2017-04-16 17:13:33,157 [5] INFO  Logger [(null)] - Processing CalculateNext(1409, 267914296).
+2017-04-16 17:13:33,157 [10] INFO  Logger [(null)] - Sending Response Id:1397, Current:433494437.
+2017-04-16 17:13:33,159 [6] INFO  Logger [(null)] - Processing CalculateNext(1415, 267914296).
+2017-04-16 17:13:33,162 [10] INFO  Logger [(null)] - Sending Response Id:1422, Current:433494437.
+2017-04-16 17:13:33,160 [7] INFO  Logger [(null)] - Sending Response Id:1412, Current:1134903170.
+2017-04-16 17:13:33,164 [7] INFO  Logger [(null)] - Sending Response Id:1406, Current:1134903170.
+2017-04-16 17:13:33,168 [10] INFO  Logger [(null)] - Sending Response Id:1404, Current:1134903170.
+2017-04-16 17:13:33,170 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:433494437.
+2017-04-16 17:13:33,174 [10] INFO  Logger [(null)] - Processing CalculateNext(1410, 701408733).
+2017-04-16 17:13:33,178 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:433494437.
+2017-04-16 17:13:33,181 [5] INFO  Logger [(null)] - Processing CalculateNext(1398, 267914296).
+2017-04-16 17:13:33,181 [6] INFO  Logger [(null)] - Sending Response Id:1415, Current:433494437.
+2017-04-16 17:13:33,193 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:433494437.
+2017-04-16 17:13:33,194 [10] INFO  Logger [(null)] - Processing CalculateNext(1403, 701408733).
+2017-04-16 17:13:33,202 [5] INFO  Logger [(null)] - Sending Response Id:1410, Current:1134903170.
+2017-04-16 17:13:33,206 [7] INFO  Logger [(null)] - Processing CalculateNext(1421, 701408733).
+2017-04-16 17:13:33,207 [10] INFO  Logger [(null)] - Sending Response Id:1403, Current:1134903170.
+2017-04-16 17:13:33,211 [6] INFO  Logger [(null)] - Processing CalculateNext(1405, 701408733).
+2017-04-16 17:13:33,211 [7] INFO  Logger [(null)] - Processing CalculateNext(1413, 267914296).
+2017-04-16 17:13:33,213 [10] INFO  Logger [(null)] - Sending Response Id:1421, Current:1134903170.
+2017-04-16 17:13:33,218 [7] INFO  Logger [(null)] - Processing CalculateNext(1420, 701408733).
+2017-04-16 17:13:33,219 [6] INFO  Logger [(null)] - Sending Response Id:1405, Current:1134903170.
+2017-04-16 17:13:33,220 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:433494437.
+2017-04-16 17:13:33,237 [10] INFO  Logger [(null)] - Processing CalculateNext(1419, 701408733).
+2017-04-16 17:13:33,254 [5] INFO  Logger [(null)] - Processing CalculateNext(1400, 267914296).
+2017-04-16 17:13:33,257 [6] INFO  Logger [(null)] - Sending Response Id:1420, Current:1134903170.
+2017-04-16 17:13:33,258 [6] INFO  Logger [(null)] - Sending Response Id:1419, Current:1134903170.
+2017-04-16 17:13:33,260 [10] INFO  Logger [(null)] - Sending Response Id:1400, Current:433494437.
+2017-04-16 17:13:33,262 [7] INFO  Logger [(null)] - Processing CalculateNext(1423, 701408733).
+2017-04-16 17:13:33,262 [5] INFO  Logger [(null)] - Processing CalculateNext(1396, 1836311903).
+2017-04-16 17:13:33,269 [7] INFO  Logger [(null)] - Sending Response Id:1423, Current:1134903170.
+2017-04-16 17:13:33,282 [10] INFO  Logger [(null)] - Processing CalculateNext(1417, 701408733).
+2017-04-16 17:13:33,282 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 267914296).
+2017-04-16 17:13:33,287 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,289 [5] INFO  Logger [(null)] - Processing CalculateNext(1401, 1836311903).
+2017-04-16 17:13:33,291 [6] INFO  Logger [(null)] - Processing CalculateNext(1408, 701408733).
+2017-04-16 17:13:33,292 [10] INFO  Logger [(null)] - Sending Response Id:1417, Current:1134903170.
+2017-04-16 17:13:33,301 [5] INFO  Logger [(null)] - Sending Response Id:1399, Current:433494437.
+2017-04-16 17:13:33,310 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,310 [5] INFO  Logger [(null)] - Sending Response Id:1408, Current:1134903170.
+2017-04-16 17:13:33,312 [6] INFO  Logger [(null)] - Processing CalculateNext(1416, 701408733).
+2017-04-16 17:13:33,313 [10] INFO  Logger [(null)] - Processing CalculateNext(1414, 701408733).
+2017-04-16 17:13:33,322 [5] INFO  Logger [(null)] - Processing CalculateNext(1394, 1836311903).
+2017-04-16 17:13:33,323 [7] INFO  Logger [(null)] - Processing CalculateNext(1407, 1836311903).
+2017-04-16 17:13:33,328 [6] INFO  Logger [(null)] - Sending Response Id:1416, Current:1134903170.
+2017-04-16 17:13:33,333 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,336 [10] INFO  Logger [(null)] - Processing CalculateNext(1402, 1836311903).
+2017-04-16 17:13:33,339 [6] INFO  Logger [(null)] - Sending Response Id:1414, Current:1134903170.
+2017-04-16 17:13:33,339 [7] INFO  Logger [(null)] - Processing CalculateNext(1411, 1836311903).
+2017-04-16 17:13:33,367 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,394 [6] INFO  Logger [(null)] - Processing CalculateNext(1395, 1836311903).
+2017-04-16 17:13:33,400 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,401 [10] INFO  Logger [(null)] - Processing CalculateNext(1397, 701408733).
+2017-04-16 17:13:33,407 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,433 [10] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,434 [7] INFO  Logger [(null)] - Processing CalculateNext(1412, 1836311903).
+2017-04-16 17:13:33,436 [5] INFO  Logger [(null)] - Sending Response Id:1397, Current:1134903170.
+2017-04-16 17:13:33,441 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 701408733).
+2017-04-16 17:13:33,448 [5] INFO  Logger [(null)] - Processing CalculateNext(1404, 1836311903).
+2017-04-16 17:13:33,451 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,455 [6] INFO  Logger [(null)] - Sending Response Id:1422, Current:1134903170.
+2017-04-16 17:13:33,456 [10] INFO  Logger [(null)] - Processing CalculateNext(1406, 1836311903).
+2017-04-16 17:13:33,470 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,471 [10] INFO  Logger [(null)] - Processing CalculateNext(1418, 701408733).
+2017-04-16 17:13:33,479 [7] INFO  Logger [(null)] - Processing CalculateNext(1409, 701408733).
+2017-04-16 17:13:33,485 [7] INFO  Logger [(null)] - Sending Response Id:1418, Current:1134903170.
+2017-04-16 17:13:33,488 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,492 [10] INFO  Logger [(null)] - Processing CalculateNext(1415, 701408733).
+2017-04-16 17:13:33,492 [6] INFO  Logger [(null)] - Processing CalculateNext(1410, 1836311903).
+2017-04-16 17:13:33,499 [7] INFO  Logger [(null)] - Sending Response Id:1409, Current:1134903170.
+2017-04-16 17:13:33,504 [10] INFO  Logger [(null)] - Sending Response Id:1415, Current:1134903170.
+2017-04-16 17:13:33,511 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,512 [7] INFO  Logger [(null)] - Processing CalculateNext(1403, 1836311903).
+2017-04-16 17:13:33,517 [10] INFO  Logger [(null)] - Processing CalculateNext(1405, 1836311903).
+2017-04-16 17:13:33,521 [5] INFO  Logger [(null)] - Processing CalculateNext(1421, 1836311903).
+2017-04-16 17:13:33,527 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,539 [10] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,548 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,552 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 701408733).
+2017-04-16 17:13:33,552 [7] INFO  Logger [(null)] - Processing CalculateNext(1398, 701408733).
+2017-04-16 17:13:33,557 [10] INFO  Logger [(null)] - Processing CalculateNext(1420, 1836311903).
+2017-04-16 17:13:33,558 [7] INFO  Logger [(null)] - Sending Response Id:1398, Current:1134903170.
+2017-04-16 17:13:33,560 [6] INFO  Logger [(null)] - Processing CalculateNext(1419, 1836311903).
+2017-04-16 17:13:33,561 [10] INFO  Logger [(null)] - Processing CalculateNext(1400, 701408733).
+2017-04-16 17:13:33,571 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,578 [10] INFO  Logger [(null)] - Processing CalculateNext(1423, 1836311903).
+2017-04-16 17:13:33,591 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,598 [6] INFO  Logger [(null)] - Processing CalculateNext(1399, 701408733).
+2017-04-16 17:13:33,607 [10] INFO  Logger [(null)] - Sending Response Id:1413, Current:1134903170.
+2017-04-16 17:13:33,616 [5] INFO  Logger [(null)] - Sending Response Id:1400, Current:1134903170.
+2017-04-16 17:13:33,616 [10] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,617 [7] INFO  Logger [(null)] - Sending Response Id:1399, Current:1134903170.
+2017-04-16 17:13:33,620 [6] INFO  Logger [(null)] - Processing CalculateNext(1417, 1836311903).
+2017-04-16 17:13:33,633 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,634 [5] INFO  Logger [(null)] - Processing CalculateNext(1414, 1836311903).
+2017-04-16 17:13:33,636 [10] INFO  Logger [(null)] - Processing CalculateNext(1408, 1836311903).
+2017-04-16 17:13:33,636 [7] INFO  Logger [(null)] - Processing CalculateNext(1416, 1836311903).
+2017-04-16 17:13:33,645 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,666 [7] INFO  Logger [(null)] - Processing CalculateNext(1397, 1836311903).
+2017-04-16 17:13:33,680 [10] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,683 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,683 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,686 [6] INFO  Logger [(null)] - Processing CalculateNext(1422, 1836311903).
+2017-04-16 17:13:33,707 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,708 [6] INFO  Logger [(null)] - Processing CalculateNext(1418, 1836311903).
+2017-04-16 17:13:33,710 [10] INFO  Logger [(null)] - Processing CalculateNext(1415, 1836311903).
+2017-04-16 17:13:33,708 [5] INFO  Logger [(null)] - Processing CalculateNext(1409, 1836311903).
+2017-04-16 17:13:33,721 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,729 [5] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,734 [10] INFO  Logger [(null)] - Processing CalculateNext(1398, 1836311903).
+2017-04-16 17:13:33,741 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,747 [7] INFO  Logger [(null)] - Processing CompleteCalculation(1396).
+2017-04-16 17:13:33,748 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1401).
+2017-04-16 17:13:33,749 [6] INFO  Logger [(null)] - Processing CalculateNext(1413, 1836311903).
+2017-04-16 17:13:33,754 [10] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,764 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,772 [10] INFO  Logger [(null)] - Processing CalculateNext(1400, 1836311903).
+2017-04-16 17:13:33,772 [7] INFO  Logger [(null)] - Processing CalculateNext(1399, 1836311903).
+2017-04-16 17:13:33,776 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1407).
+2017-04-16 17:13:33,776 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1411).
+2017-04-16 17:13:33,776 [7] INFO  Logger [(null)] - Processing CompleteCalculation(1402).
+2017-04-16 17:13:33,776 [10] INFO  Logger [(null)] - Processing CompleteCalculation(1394).
+2017-04-16 17:13:33,781 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1395).
+2017-04-16 17:13:33,789 [6] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,789 [10] INFO  Logger [(null)] - Processing CompleteCalculation(1406).
+2017-04-16 17:13:33,802 [7] ERROR Logger [(null)] - Error trying to calculate 1134903170 + 1836311903
+System.OverflowException: Переполнение в результате выполнения арифметической операции.
+   в PT.Fibonacci.Calculator.Calculate(Int32 first, Int32 second) в C:\Users\Nikolay\documents\visual studio 2017\Projects\PT.Fibonacci\PT.Fibonacci\Calculator.cs:строка 39
+2017-04-16 17:13:33,808 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1412).
+2017-04-16 17:13:33,813 [7] INFO  Logger [(null)] - Processing CompleteCalculation(1404).
+2017-04-16 17:13:33,814 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1403).
+2017-04-16 17:13:33,818 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1410).
+2017-04-16 17:13:33,818 [7] INFO  Logger [(null)] - Processing CompleteCalculation(1405).
+2017-04-16 17:13:33,819 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1421).
+2017-04-16 17:13:33,824 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1423).
+2017-04-16 17:13:33,824 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1420).
+2017-04-16 17:13:33,829 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1419).
+2017-04-16 17:13:33,829 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1414).
+2017-04-16 17:13:33,834 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1397).
+2017-04-16 17:13:33,836 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1417).
+2017-04-16 17:13:33,839 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1416).
+2017-04-16 17:13:33,840 [10] INFO  Logger [(null)] - Processing CompleteCalculation(1408).
+2017-04-16 17:13:33,846 [7] INFO  Logger [(null)] - Processing CompleteCalculation(1422).
+2017-04-16 17:13:33,847 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1418).
+2017-04-16 17:13:33,847 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1409).
+2017-04-16 17:13:33,849 [10] INFO  Logger [(null)] - Processing CompleteCalculation(1415).
+2017-04-16 17:13:33,850 [7] INFO  Logger [(null)] - Processing CompleteCalculation(1413).
+2017-04-16 17:13:33,851 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1398).
+2017-04-16 17:13:33,855 [6] INFO  Logger [(null)] - Processing CompleteCalculation(1399).
+2017-04-16 17:13:33,855 [5] INFO  Logger [(null)] - Processing CompleteCalculation(1400).
